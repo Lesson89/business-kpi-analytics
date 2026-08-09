@@ -1,0 +1,1201 @@
+customer_id,customer_name,signup_date,city,province,region,acquisition_channel
+C00001,Customer 0001,2024-12-07,Pretoria,Gauteng,Gauteng,Email
+C00002,Customer 0002,2024-05-18,Cape Town,Western Cape,Western Cape,Organic Search
+C00003,Customer 0003,2023-02-09,Pretoria,Gauteng,Gauteng,Email
+C00004,Customer 0004,2023-05-08,Pretoria,Gauteng,Gauteng,Paid Search
+C00005,Customer 0005,2024-09-28,Johannesburg,Gauteng,Gauteng,Organic Search
+C00006,Customer 0006,2023-06-07,Johannesburg,Gauteng,Gauteng,Organic Search
+C00007,Customer 0007,2024-05-21,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00008,Customer 0008,2024-12-26,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00009,Customer 0009,2023-10-27,Tembisa,Gauteng,Gauteng,Paid Search
+C00010,Customer 0010,2024-05-26,Tembisa,Gauteng,Gauteng,Direct
+C00011,Customer 0011,2024-09-19,Polokwane,Limpopo,Limpopo,Organic Search
+C00012,Customer 0012,2023-12-31,Pretoria,Gauteng,Gauteng,Referral
+C00013,Customer 0013,2024-11-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00014,Customer 0014,2023-12-11,Pretoria,Gauteng,Gauteng,Organic Search
+C00015,Customer 0015,2023-03-30,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00016,Customer 0016,2023-05-21,Polokwane,Limpopo,Limpopo,Organic Search
+C00017,Customer 0017,2024-11-16,Pretoria,Gauteng,Gauteng,Email
+C00018,Customer 0018,2024-10-12,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00019,Customer 0019,2023-12-09,Pretoria,Gauteng,Gauteng,Paid Search
+C00020,Customer 0020,2024-07-19,Polokwane,Limpopo,Limpopo,Paid Search
+C00021,Customer 0021,2023-02-15,Cape Town,Western Cape,Western Cape,Paid Search
+C00022,Customer 0022,2023-04-19,Pretoria,Gauteng,Gauteng,Email
+C00023,Customer 0023,2024-07-18,Cape Town,Western Cape,Western Cape,Social Media
+C00024,Customer 0024,2023-03-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00025,Customer 0025,2024-02-04,Cape Town,Western Cape,Western Cape,Referral
+C00026,Customer 0026,2024-05-12,Johannesburg,Gauteng,Gauteng,Referral
+C00027,Customer 0027,2023-11-18,Polokwane,Limpopo,Limpopo,Paid Search
+C00028,Customer 0028,2023-06-01,Cape Town,Western Cape,Western Cape,Direct
+C00029,Customer 0029,2024-05-29,Polokwane,Limpopo,Limpopo,Email
+C00030,Customer 0030,2023-03-15,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00031,Customer 0031,2024-08-12,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00032,Customer 0032,2023-05-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00033,Customer 0033,2023-12-28,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00034,Customer 0034,2023-07-30,Tembisa,Gauteng,Gauteng,Social Media
+C00035,Customer 0035,2024-09-11,Johannesburg,Gauteng,Gauteng,Organic Search
+C00036,Customer 0036,2023-02-05,Tembisa,Gauteng,Gauteng,Paid Search
+C00037,Customer 0037,2023-12-04,Pretoria,Gauteng,Gauteng,Paid Search
+C00038,Customer 0038,2023-07-10,Bloemfontein,Free State,Free State,Paid Search
+C00039,Customer 0039,2023-02-05,Johannesburg,Gauteng,Gauteng,Email
+C00040,Customer 0040,2023-03-17,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00041,Customer 0041,2023-10-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00042,Customer 0042,2024-04-07,Johannesburg,Gauteng,Gauteng,Direct
+C00043,Customer 0043,2023-08-01,Tembisa,Gauteng,Gauteng,Direct
+C00044,Customer 0044,2023-03-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00045,Customer 0045,2024-07-29,Cape Town,Western Cape,Western Cape,Paid Search
+C00046,Customer 0046,2023-06-29,Tembisa,Gauteng,Gauteng,Direct
+C00047,Customer 0047,2023-04-29,Johannesburg,Gauteng,Gauteng,Paid Search
+C00048,Customer 0048,2024-09-09,Johannesburg,Gauteng,Gauteng,Direct
+C00049,Customer 0049,2024-05-01,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00050,Customer 0050,2024-10-06,Pretoria,Gauteng,Gauteng,Email
+C00051,Customer 0051,2023-07-06,Pretoria,Gauteng,Gauteng,Referral
+C00052,Customer 0052,2023-02-26,Tembisa,Gauteng,Gauteng,Social Media
+C00053,Customer 0053,2024-04-05,Tembisa,Gauteng,Gauteng,Social Media
+C00054,Customer 0054,2024-05-30,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00055,Customer 0055,2024-02-17,Cape Town,Western Cape,Western Cape,Paid Search
+C00056,Customer 0056,2023-10-11,Polokwane,Limpopo,Limpopo,Direct
+C00057,Customer 0057,2024-08-31,Bloemfontein,Free State,Free State,Organic Search
+C00058,Customer 0058,2024-01-21,Pretoria,Gauteng,Gauteng,Organic Search
+C00059,Customer 0059,2023-05-10,Cape Town,Western Cape,Western Cape,Organic Search
+C00060,Customer 0060,2023-03-27,Pretoria,Gauteng,Gauteng,Organic Search
+C00061,Customer 0061,2024-11-30,Pretoria,Gauteng,Gauteng,Direct
+C00062,Customer 0062,2023-07-25,Pretoria,Gauteng,Gauteng,Organic Search
+C00063,Customer 0063,2024-05-27,Bloemfontein,Free State,Free State,Social Media
+C00064,Customer 0064,2024-04-28,Bloemfontein,Free State,Free State,Referral
+C00065,Customer 0065,2024-06-21,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00066,Customer 0066,2024-01-05,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00067,Customer 0067,2024-11-07,Bloemfontein,Free State,Free State,Email
+C00068,Customer 0068,2024-10-31,Pretoria,Gauteng,Gauteng,Paid Search
+C00069,Customer 0069,2024-09-12,Polokwane,Limpopo,Limpopo,Organic Search
+C00070,Customer 0070,2023-07-02,Cape Town,Western Cape,Western Cape,Paid Search
+C00071,Customer 0071,2024-06-28,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00072,Customer 0072,2024-10-16,Cape Town,Western Cape,Western Cape,Paid Search
+C00073,Customer 0073,2024-11-11,Pretoria,Gauteng,Gauteng,Email
+C00074,Customer 0074,2024-09-28,Johannesburg,Gauteng,Gauteng,Direct
+C00075,Customer 0075,2024-07-15,Cape Town,Western Cape,Western Cape,Paid Search
+C00076,Customer 0076,2024-05-28,Bloemfontein,Free State,Free State,Direct
+C00077,Customer 0077,2024-07-17,Johannesburg,Gauteng,Gauteng,Paid Search
+C00078,Customer 0078,2024-04-05,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00079,Customer 0079,2024-03-15,Bloemfontein,Free State,Free State,Paid Search
+C00080,Customer 0080,2024-07-27,Bloemfontein,Free State,Free State,Organic Search
+C00081,Customer 0081,2024-11-03,Cape Town,Western Cape,Western Cape,Social Media
+C00082,Customer 0082,2024-02-15,Johannesburg,Gauteng,Gauteng,Organic Search
+C00083,Customer 0083,2023-08-06,Bloemfontein,Free State,Free State,Direct
+C00084,Customer 0084,2024-11-04,Tembisa,Gauteng,Gauteng,Direct
+C00085,Customer 0085,2024-06-25,Pretoria,Gauteng,Gauteng,Organic Search
+C00086,Customer 0086,2023-02-10,Pretoria,Gauteng,Gauteng,Direct
+C00087,Customer 0087,2024-09-01,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00088,Customer 0088,2023-05-20,Cape Town,Western Cape,Western Cape,Social Media
+C00089,Customer 0089,2023-10-30,Pretoria,Gauteng,Gauteng,Email
+C00090,Customer 0090,2024-04-09,Polokwane,Limpopo,Limpopo,Organic Search
+C00091,Customer 0091,2024-05-02,Polokwane,Limpopo,Limpopo,Paid Search
+C00092,Customer 0092,2023-02-14,Tembisa,Gauteng,Gauteng,Email
+C00093,Customer 0093,2024-02-13,Bloemfontein,Free State,Free State,Direct
+C00094,Customer 0094,2024-12-23,Pretoria,Gauteng,Gauteng,Social Media
+C00095,Customer 0095,2024-10-18,Pretoria,Gauteng,Gauteng,Social Media
+C00096,Customer 0096,2024-08-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00097,Customer 0097,2024-04-26,Pretoria,Gauteng,Gauteng,Paid Search
+C00098,Customer 0098,2023-10-11,Tembisa,Gauteng,Gauteng,Referral
+C00099,Customer 0099,2023-04-16,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00100,Customer 0100,2023-02-18,Johannesburg,Gauteng,Gauteng,Referral
+C00101,Customer 0101,2023-02-22,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00102,Customer 0102,2024-04-06,Tembisa,Gauteng,Gauteng,Organic Search
+C00103,Customer 0103,2023-06-15,Pretoria,Gauteng,Gauteng,Organic Search
+C00104,Customer 0104,2023-04-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00105,Customer 0105,2024-06-07,Polokwane,Limpopo,Limpopo,Email
+C00106,Customer 0106,2023-08-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00107,Customer 0107,2024-09-29,Johannesburg,Gauteng,Gauteng,Email
+C00108,Customer 0108,2024-11-17,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00109,Customer 0109,2023-03-21,Tembisa,Gauteng,Gauteng,Direct
+C00110,Customer 0110,2023-10-07,Tembisa,Gauteng,Gauteng,Social Media
+C00111,Customer 0111,2023-06-07,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00112,Customer 0112,2024-08-02,Pretoria,Gauteng,Gauteng,Social Media
+C00113,Customer 0113,2023-05-16,Polokwane,Limpopo,Limpopo,Social Media
+C00114,Customer 0114,2024-08-24,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00115,Customer 0115,2024-11-22,Polokwane,Limpopo,Limpopo,Direct
+C00116,Customer 0116,2023-02-03,Cape Town,Western Cape,Western Cape,Organic Search
+C00117,Customer 0117,2024-01-05,Pretoria,Gauteng,Gauteng,Referral
+C00118,Customer 0118,2023-04-07,Mbombela,Mpumalanga,Mpumalanga,Email
+C00119,Customer 0119,2024-07-19,Cape Town,Western Cape,Western Cape,Direct
+C00120,Customer 0120,2023-11-06,Tembisa,Gauteng,Gauteng,Organic Search
+C00121,Customer 0121,2023-11-07,Polokwane,Limpopo,Limpopo,Referral
+C00122,Customer 0122,2024-04-03,Cape Town,Western Cape,Western Cape,Organic Search
+C00123,Customer 0123,2023-12-07,Pretoria,Gauteng,Gauteng,Direct
+C00124,Customer 0124,2024-05-19,Bloemfontein,Free State,Free State,Organic Search
+C00125,Customer 0125,2024-01-09,Bloemfontein,Free State,Free State,Paid Search
+C00126,Customer 0126,2024-05-18,Cape Town,Western Cape,Western Cape,Organic Search
+C00127,Customer 0127,2023-11-20,Cape Town,Western Cape,Western Cape,Paid Search
+C00128,Customer 0128,2024-03-22,Pretoria,Gauteng,Gauteng,Paid Search
+C00129,Customer 0129,2023-02-06,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00130,Customer 0130,2024-12-04,Polokwane,Limpopo,Limpopo,Organic Search
+C00131,Customer 0131,2024-07-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00132,Customer 0132,2024-11-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00133,Customer 0133,2024-01-14,Mbombela,Mpumalanga,Mpumalanga,Email
+C00134,Customer 0134,2023-10-13,Polokwane,Limpopo,Limpopo,Social Media
+C00135,Customer 0135,2023-12-04,Pretoria,Gauteng,Gauteng,Direct
+C00136,Customer 0136,2024-04-16,Cape Town,Western Cape,Western Cape,Organic Search
+C00137,Customer 0137,2024-12-31,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00138,Customer 0138,2023-12-26,Cape Town,Western Cape,Western Cape,Paid Search
+C00139,Customer 0139,2023-04-04,Polokwane,Limpopo,Limpopo,Paid Search
+C00140,Customer 0140,2024-02-29,Pretoria,Gauteng,Gauteng,Social Media
+C00141,Customer 0141,2024-02-02,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00142,Customer 0142,2023-06-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00143,Customer 0143,2023-02-21,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00144,Customer 0144,2023-04-12,Tembisa,Gauteng,Gauteng,Social Media
+C00145,Customer 0145,2023-06-20,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00146,Customer 0146,2024-03-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00147,Customer 0147,2023-09-13,Polokwane,Limpopo,Limpopo,Paid Search
+C00148,Customer 0148,2023-07-28,Cape Town,Western Cape,Western Cape,Social Media
+C00149,Customer 0149,2023-02-27,Tembisa,Gauteng,Gauteng,Organic Search
+C00150,Customer 0150,2024-09-28,Polokwane,Limpopo,Limpopo,Referral
+C00151,Customer 0151,2023-02-13,Cape Town,Western Cape,Western Cape,Paid Search
+C00152,Customer 0152,2024-08-04,Cape Town,Western Cape,Western Cape,Organic Search
+C00153,Customer 0153,2023-09-03,Cape Town,Western Cape,Western Cape,Social Media
+C00154,Customer 0154,2023-09-23,Pretoria,Gauteng,Gauteng,Paid Search
+C00155,Customer 0155,2023-12-05,Cape Town,Western Cape,Western Cape,Social Media
+C00156,Customer 0156,2024-08-03,Cape Town,Western Cape,Western Cape,Email
+C00157,Customer 0157,2024-09-14,Johannesburg,Gauteng,Gauteng,Referral
+C00158,Customer 0158,2024-07-05,Cape Town,Western Cape,Western Cape,Referral
+C00159,Customer 0159,2024-11-11,Bloemfontein,Free State,Free State,Social Media
+C00160,Customer 0160,2023-09-22,Pretoria,Gauteng,Gauteng,Organic Search
+C00161,Customer 0161,2023-02-18,Bloemfontein,Free State,Free State,Social Media
+C00162,Customer 0162,2023-10-06,Polokwane,Limpopo,Limpopo,Social Media
+C00163,Customer 0163,2023-06-20,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00164,Customer 0164,2023-09-03,Tembisa,Gauteng,Gauteng,Social Media
+C00165,Customer 0165,2023-03-21,Cape Town,Western Cape,Western Cape,Paid Search
+C00166,Customer 0166,2023-04-01,Bloemfontein,Free State,Free State,Organic Search
+C00167,Customer 0167,2024-10-14,Bloemfontein,Free State,Free State,Email
+C00168,Customer 0168,2024-03-29,Cape Town,Western Cape,Western Cape,Paid Search
+C00169,Customer 0169,2024-08-13,Pretoria,Gauteng,Gauteng,Organic Search
+C00170,Customer 0170,2024-07-29,Mbombela,Mpumalanga,Mpumalanga,Email
+C00171,Customer 0171,2023-11-04,Pretoria,Gauteng,Gauteng,Paid Search
+C00172,Customer 0172,2023-11-03,Bloemfontein,Free State,Free State,Organic Search
+C00173,Customer 0173,2023-11-30,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00174,Customer 0174,2023-05-23,Johannesburg,Gauteng,Gauteng,Paid Search
+C00175,Customer 0175,2024-01-07,Johannesburg,Gauteng,Gauteng,Paid Search
+C00176,Customer 0176,2023-10-30,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00177,Customer 0177,2023-08-21,Cape Town,Western Cape,Western Cape,Organic Search
+C00178,Customer 0178,2023-08-23,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00179,Customer 0179,2023-02-17,Polokwane,Limpopo,Limpopo,Email
+C00180,Customer 0180,2024-07-16,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00181,Customer 0181,2023-04-05,Tembisa,Gauteng,Gauteng,Social Media
+C00182,Customer 0182,2023-05-06,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00183,Customer 0183,2024-10-08,Johannesburg,Gauteng,Gauteng,Email
+C00184,Customer 0184,2023-09-17,Tembisa,Gauteng,Gauteng,Organic Search
+C00185,Customer 0185,2023-12-10,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00186,Customer 0186,2024-02-02,Bloemfontein,Free State,Free State,Paid Search
+C00187,Customer 0187,2024-03-23,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00188,Customer 0188,2024-04-18,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00189,Customer 0189,2024-12-13,Bloemfontein,Free State,Free State,Email
+C00190,Customer 0190,2024-01-09,Johannesburg,Gauteng,Gauteng,Organic Search
+C00191,Customer 0191,2023-03-06,Pretoria,Gauteng,Gauteng,Organic Search
+C00192,Customer 0192,2024-04-23,Johannesburg,Gauteng,Gauteng,Organic Search
+C00193,Customer 0193,2023-04-06,Johannesburg,Gauteng,Gauteng,Organic Search
+C00194,Customer 0194,2023-09-05,Tembisa,Gauteng,Gauteng,Email
+C00195,Customer 0195,2023-09-13,Cape Town,Western Cape,Western Cape,Email
+C00196,Customer 0196,2024-07-14,Polokwane,Limpopo,Limpopo,Social Media
+C00197,Customer 0197,2024-07-18,Pretoria,Gauteng,Gauteng,Direct
+C00198,Customer 0198,2023-05-20,Pretoria,Gauteng,Gauteng,Organic Search
+C00199,Customer 0199,2023-05-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00200,Customer 0200,2023-11-22,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00201,Customer 0201,2024-10-16,Cape Town,Western Cape,Western Cape,Social Media
+C00202,Customer 0202,2024-09-19,Cape Town,Western Cape,Western Cape,Email
+C00203,Customer 0203,2023-02-01,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00204,Customer 0204,2023-06-02,Pretoria,Gauteng,Gauteng,Referral
+C00205,Customer 0205,2023-07-06,Polokwane,Limpopo,Limpopo,Paid Search
+C00206,Customer 0206,2024-10-23,Polokwane,Limpopo,Limpopo,Social Media
+C00207,Customer 0207,2024-12-20,Polokwane,Limpopo,Limpopo,Referral
+C00208,Customer 0208,2024-09-15,Bloemfontein,Free State,Free State,Paid Search
+C00209,Customer 0209,2023-03-23,Polokwane,Limpopo,Limpopo,Direct
+C00210,Customer 0210,2024-07-29,Bloemfontein,Free State,Free State,Paid Search
+C00211,Customer 0211,2023-04-12,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00212,Customer 0212,2023-09-13,Bloemfontein,Free State,Free State,Paid Search
+C00213,Customer 0213,2024-02-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00214,Customer 0214,2024-03-22,Pretoria,Gauteng,Gauteng,Direct
+C00215,Customer 0215,2023-09-14,Cape Town,Western Cape,Western Cape,Social Media
+C00216,Customer 0216,2024-01-23,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00217,Customer 0217,2024-06-29,Polokwane,Limpopo,Limpopo,Social Media
+C00218,Customer 0218,2024-04-12,Polokwane,Limpopo,Limpopo,Paid Search
+C00219,Customer 0219,2023-06-12,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00220,Customer 0220,2024-10-06,Cape Town,Western Cape,Western Cape,Organic Search
+C00221,Customer 0221,2023-08-20,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00222,Customer 0222,2023-09-02,Cape Town,Western Cape,Western Cape,Email
+C00223,Customer 0223,2023-10-01,Bloemfontein,Free State,Free State,Referral
+C00224,Customer 0224,2024-03-06,Pretoria,Gauteng,Gauteng,Organic Search
+C00225,Customer 0225,2024-02-23,Cape Town,Western Cape,Western Cape,Email
+C00226,Customer 0226,2023-09-05,Polokwane,Limpopo,Limpopo,Social Media
+C00227,Customer 0227,2023-10-24,Polokwane,Limpopo,Limpopo,Direct
+C00228,Customer 0228,2024-01-07,Polokwane,Limpopo,Limpopo,Email
+C00229,Customer 0229,2024-02-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00230,Customer 0230,2024-06-18,Pretoria,Gauteng,Gauteng,Paid Search
+C00231,Customer 0231,2024-06-19,Tembisa,Gauteng,Gauteng,Organic Search
+C00232,Customer 0232,2024-03-24,Bloemfontein,Free State,Free State,Email
+C00233,Customer 0233,2024-09-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00234,Customer 0234,2024-05-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00235,Customer 0235,2024-12-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00236,Customer 0236,2024-03-27,Tembisa,Gauteng,Gauteng,Organic Search
+C00237,Customer 0237,2023-06-15,Johannesburg,Gauteng,Gauteng,Paid Search
+C00238,Customer 0238,2023-03-20,Tembisa,Gauteng,Gauteng,Direct
+C00239,Customer 0239,2024-09-18,Bloemfontein,Free State,Free State,Direct
+C00240,Customer 0240,2023-09-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00241,Customer 0241,2024-06-27,Polokwane,Limpopo,Limpopo,Direct
+C00242,Customer 0242,2023-08-31,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00243,Customer 0243,2023-11-18,Pretoria,Gauteng,Gauteng,Social Media
+C00244,Customer 0244,2024-07-30,Johannesburg,Gauteng,Gauteng,Organic Search
+C00245,Customer 0245,2024-10-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00246,Customer 0246,2023-06-10,Pretoria,Gauteng,Gauteng,Referral
+C00247,Customer 0247,2023-07-16,Cape Town,Western Cape,Western Cape,Paid Search
+C00248,Customer 0248,2024-03-03,Bloemfontein,Free State,Free State,Direct
+C00249,Customer 0249,2024-02-24,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00250,Customer 0250,2023-04-18,Johannesburg,Gauteng,Gauteng,Direct
+C00251,Customer 0251,2024-06-03,Pretoria,Gauteng,Gauteng,Social Media
+C00252,Customer 0252,2023-02-25,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00253,Customer 0253,2024-07-08,Cape Town,Western Cape,Western Cape,Social Media
+C00254,Customer 0254,2024-12-30,Tembisa,Gauteng,Gauteng,Paid Search
+C00255,Customer 0255,2024-03-09,Bloemfontein,Free State,Free State,Organic Search
+C00256,Customer 0256,2024-03-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00257,Customer 0257,2024-10-21,Bloemfontein,Free State,Free State,Email
+C00258,Customer 0258,2023-04-02,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00259,Customer 0259,2023-10-24,Cape Town,Western Cape,Western Cape,Organic Search
+C00260,Customer 0260,2023-03-10,Cape Town,Western Cape,Western Cape,Organic Search
+C00261,Customer 0261,2024-08-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00262,Customer 0262,2024-02-22,Tembisa,Gauteng,Gauteng,Social Media
+C00263,Customer 0263,2023-10-10,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00264,Customer 0264,2023-11-16,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00265,Customer 0265,2023-10-11,Bloemfontein,Free State,Free State,Organic Search
+C00266,Customer 0266,2023-10-17,Johannesburg,Gauteng,Gauteng,Email
+C00267,Customer 0267,2024-12-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00268,Customer 0268,2023-02-13,Johannesburg,Gauteng,Gauteng,Referral
+C00269,Customer 0269,2024-07-06,Johannesburg,Gauteng,Gauteng,Social Media
+C00270,Customer 0270,2024-03-23,Bloemfontein,Free State,Free State,Organic Search
+C00271,Customer 0271,2023-03-23,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00272,Customer 0272,2023-09-08,Pretoria,Gauteng,Gauteng,Paid Search
+C00273,Customer 0273,2024-02-08,Polokwane,Limpopo,Limpopo,Email
+C00274,Customer 0274,2024-01-30,Tembisa,Gauteng,Gauteng,Paid Search
+C00275,Customer 0275,2024-03-12,Bloemfontein,Free State,Free State,Email
+C00276,Customer 0276,2023-06-18,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00277,Customer 0277,2024-02-14,Pretoria,Gauteng,Gauteng,Paid Search
+C00278,Customer 0278,2023-11-15,Pretoria,Gauteng,Gauteng,Direct
+C00279,Customer 0279,2023-02-28,Johannesburg,Gauteng,Gauteng,Direct
+C00280,Customer 0280,2023-11-05,Bloemfontein,Free State,Free State,Organic Search
+C00281,Customer 0281,2023-04-05,Polokwane,Limpopo,Limpopo,Referral
+C00282,Customer 0282,2024-11-10,Bloemfontein,Free State,Free State,Organic Search
+C00283,Customer 0283,2024-03-13,Tembisa,Gauteng,Gauteng,Paid Search
+C00284,Customer 0284,2024-08-30,Bloemfontein,Free State,Free State,Organic Search
+C00285,Customer 0285,2024-07-23,Cape Town,Western Cape,Western Cape,Paid Search
+C00286,Customer 0286,2023-06-16,Johannesburg,Gauteng,Gauteng,Paid Search
+C00287,Customer 0287,2024-09-07,Cape Town,Western Cape,Western Cape,Social Media
+C00288,Customer 0288,2023-03-10,Pretoria,Gauteng,Gauteng,Referral
+C00289,Customer 0289,2024-03-09,Bloemfontein,Free State,Free State,Social Media
+C00290,Customer 0290,2023-11-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00291,Customer 0291,2024-04-27,Bloemfontein,Free State,Free State,Social Media
+C00292,Customer 0292,2023-12-06,Tembisa,Gauteng,Gauteng,Organic Search
+C00293,Customer 0293,2024-10-22,Tembisa,Gauteng,Gauteng,Paid Search
+C00294,Customer 0294,2024-01-19,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00295,Customer 0295,2024-12-30,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00296,Customer 0296,2023-05-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00297,Customer 0297,2024-08-02,Bloemfontein,Free State,Free State,Paid Search
+C00298,Customer 0298,2024-01-14,Bloemfontein,Free State,Free State,Paid Search
+C00299,Customer 0299,2023-09-23,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00300,Customer 0300,2024-05-02,Cape Town,Western Cape,Western Cape,Social Media
+C00301,Customer 0301,2023-11-08,Cape Town,Western Cape,Western Cape,Organic Search
+C00302,Customer 0302,2023-12-08,Bloemfontein,Free State,Free State,Paid Search
+C00303,Customer 0303,2023-08-13,Tembisa,Gauteng,Gauteng,Direct
+C00304,Customer 0304,2023-08-06,Tembisa,Gauteng,Gauteng,Direct
+C00305,Customer 0305,2024-09-21,Polokwane,Limpopo,Limpopo,Direct
+C00306,Customer 0306,2024-09-21,Bloemfontein,Free State,Free State,Social Media
+C00307,Customer 0307,2024-12-17,Bloemfontein,Free State,Free State,Email
+C00308,Customer 0308,2023-03-03,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00309,Customer 0309,2023-09-09,Pretoria,Gauteng,Gauteng,Referral
+C00310,Customer 0310,2024-01-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00311,Customer 0311,2023-03-08,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00312,Customer 0312,2023-02-11,Polokwane,Limpopo,Limpopo,Direct
+C00313,Customer 0313,2024-02-12,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00314,Customer 0314,2023-06-27,Bloemfontein,Free State,Free State,Organic Search
+C00315,Customer 0315,2024-05-06,Pretoria,Gauteng,Gauteng,Email
+C00316,Customer 0316,2024-05-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00317,Customer 0317,2024-09-23,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00318,Customer 0318,2023-10-05,Pretoria,Gauteng,Gauteng,Organic Search
+C00319,Customer 0319,2024-12-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00320,Customer 0320,2024-03-07,Johannesburg,Gauteng,Gauteng,Paid Search
+C00321,Customer 0321,2024-08-05,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00322,Customer 0322,2023-06-02,Mbombela,Mpumalanga,Mpumalanga,Email
+C00323,Customer 0323,2024-07-11,Tembisa,Gauteng,Gauteng,Organic Search
+C00324,Customer 0324,2023-04-08,Mbombela,Mpumalanga,Mpumalanga,Email
+C00325,Customer 0325,2023-05-15,Bloemfontein,Free State,Free State,Organic Search
+C00326,Customer 0326,2023-03-20,Bloemfontein,Free State,Free State,Paid Search
+C00327,Customer 0327,2023-02-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00328,Customer 0328,2024-03-13,Bloemfontein,Free State,Free State,Email
+C00329,Customer 0329,2024-10-18,Tembisa,Gauteng,Gauteng,Paid Search
+C00330,Customer 0330,2023-05-11,Polokwane,Limpopo,Limpopo,Paid Search
+C00331,Customer 0331,2024-04-20,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00332,Customer 0332,2024-06-12,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00333,Customer 0333,2024-09-14,Bloemfontein,Free State,Free State,Organic Search
+C00334,Customer 0334,2023-05-24,Polokwane,Limpopo,Limpopo,Paid Search
+C00335,Customer 0335,2024-12-10,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00336,Customer 0336,2024-03-26,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00337,Customer 0337,2023-04-22,Johannesburg,Gauteng,Gauteng,Email
+C00338,Customer 0338,2024-05-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00339,Customer 0339,2024-05-22,Polokwane,Limpopo,Limpopo,Email
+C00340,Customer 0340,2023-02-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00341,Customer 0341,2023-03-30,Tembisa,Gauteng,Gauteng,Organic Search
+C00342,Customer 0342,2024-02-20,Johannesburg,Gauteng,Gauteng,Referral
+C00343,Customer 0343,2023-05-19,Johannesburg,Gauteng,Gauteng,Paid Search
+C00344,Customer 0344,2024-10-01,Tembisa,Gauteng,Gauteng,Direct
+C00345,Customer 0345,2023-11-03,Polokwane,Limpopo,Limpopo,Organic Search
+C00346,Customer 0346,2023-06-29,Tembisa,Gauteng,Gauteng,Direct
+C00347,Customer 0347,2023-07-08,Polokwane,Limpopo,Limpopo,Social Media
+C00348,Customer 0348,2024-07-17,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00349,Customer 0349,2024-03-05,Bloemfontein,Free State,Free State,Email
+C00350,Customer 0350,2024-09-06,Polokwane,Limpopo,Limpopo,Social Media
+C00351,Customer 0351,2024-08-10,Pretoria,Gauteng,Gauteng,Referral
+C00352,Customer 0352,2023-02-09,Cape Town,Western Cape,Western Cape,Email
+C00353,Customer 0353,2023-06-11,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00354,Customer 0354,2024-12-18,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00355,Customer 0355,2023-09-24,Pretoria,Gauteng,Gauteng,Paid Search
+C00356,Customer 0356,2023-05-14,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00357,Customer 0357,2024-09-13,Polokwane,Limpopo,Limpopo,Email
+C00358,Customer 0358,2024-12-07,Bloemfontein,Free State,Free State,Social Media
+C00359,Customer 0359,2023-04-18,Polokwane,Limpopo,Limpopo,Organic Search
+C00360,Customer 0360,2023-03-23,Pretoria,Gauteng,Gauteng,Referral
+C00361,Customer 0361,2023-03-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00362,Customer 0362,2024-11-16,Tembisa,Gauteng,Gauteng,Direct
+C00363,Customer 0363,2023-08-16,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00364,Customer 0364,2023-07-01,Cape Town,Western Cape,Western Cape,Organic Search
+C00365,Customer 0365,2023-12-19,Bloemfontein,Free State,Free State,Email
+C00366,Customer 0366,2023-05-11,Mbombela,Mpumalanga,Mpumalanga,Email
+C00367,Customer 0367,2023-11-04,Tembisa,Gauteng,Gauteng,Email
+C00368,Customer 0368,2023-04-12,Bloemfontein,Free State,Free State,Paid Search
+C00369,Customer 0369,2024-11-29,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00370,Customer 0370,2023-10-05,Cape Town,Western Cape,Western Cape,Paid Search
+C00371,Customer 0371,2023-12-27,Cape Town,Western Cape,Western Cape,Organic Search
+C00372,Customer 0372,2023-06-24,Polokwane,Limpopo,Limpopo,Direct
+C00373,Customer 0373,2024-10-31,Polokwane,Limpopo,Limpopo,Paid Search
+C00374,Customer 0374,2024-08-29,Cape Town,Western Cape,Western Cape,Direct
+C00375,Customer 0375,2024-09-30,Bloemfontein,Free State,Free State,Email
+C00376,Customer 0376,2024-11-11,Johannesburg,Gauteng,Gauteng,Referral
+C00377,Customer 0377,2024-08-26,Cape Town,Western Cape,Western Cape,Referral
+C00378,Customer 0378,2024-10-23,Cape Town,Western Cape,Western Cape,Referral
+C00379,Customer 0379,2023-05-12,Cape Town,Western Cape,Western Cape,Organic Search
+C00380,Customer 0380,2024-01-31,Cape Town,Western Cape,Western Cape,Referral
+C00381,Customer 0381,2024-03-24,Johannesburg,Gauteng,Gauteng,Direct
+C00382,Customer 0382,2024-08-21,Tembisa,Gauteng,Gauteng,Social Media
+C00383,Customer 0383,2024-09-11,Tembisa,Gauteng,Gauteng,Email
+C00384,Customer 0384,2024-08-20,Johannesburg,Gauteng,Gauteng,Organic Search
+C00385,Customer 0385,2023-05-10,Cape Town,Western Cape,Western Cape,Paid Search
+C00386,Customer 0386,2024-04-05,Tembisa,Gauteng,Gauteng,Organic Search
+C00387,Customer 0387,2023-07-13,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00388,Customer 0388,2023-09-02,Pretoria,Gauteng,Gauteng,Paid Search
+C00389,Customer 0389,2023-07-26,Polokwane,Limpopo,Limpopo,Social Media
+C00390,Customer 0390,2023-08-05,Bloemfontein,Free State,Free State,Organic Search
+C00391,Customer 0391,2023-02-27,Johannesburg,Gauteng,Gauteng,Social Media
+C00392,Customer 0392,2023-03-15,Bloemfontein,Free State,Free State,Direct
+C00393,Customer 0393,2023-08-30,Johannesburg,Gauteng,Gauteng,Referral
+C00394,Customer 0394,2024-09-13,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00395,Customer 0395,2024-10-18,Bloemfontein,Free State,Free State,Direct
+C00396,Customer 0396,2023-04-20,Polokwane,Limpopo,Limpopo,Organic Search
+C00397,Customer 0397,2024-03-26,Tembisa,Gauteng,Gauteng,Social Media
+C00398,Customer 0398,2023-12-08,Polokwane,Limpopo,Limpopo,Direct
+C00399,Customer 0399,2023-09-25,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00400,Customer 0400,2024-09-22,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00401,Customer 0401,2023-03-03,Pretoria,Gauteng,Gauteng,Email
+C00402,Customer 0402,2023-10-19,Cape Town,Western Cape,Western Cape,Social Media
+C00403,Customer 0403,2023-11-05,Cape Town,Western Cape,Western Cape,Paid Search
+C00404,Customer 0404,2023-11-20,Bloemfontein,Free State,Free State,Paid Search
+C00405,Customer 0405,2024-02-16,Pretoria,Gauteng,Gauteng,Paid Search
+C00406,Customer 0406,2023-12-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00407,Customer 0407,2024-10-25,Bloemfontein,Free State,Free State,Organic Search
+C00408,Customer 0408,2024-09-28,Pretoria,Gauteng,Gauteng,Paid Search
+C00409,Customer 0409,2024-08-21,Polokwane,Limpopo,Limpopo,Social Media
+C00410,Customer 0410,2023-02-15,Polokwane,Limpopo,Limpopo,Organic Search
+C00411,Customer 0411,2023-02-20,Polokwane,Limpopo,Limpopo,Direct
+C00412,Customer 0412,2024-11-10,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00413,Customer 0413,2024-01-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00414,Customer 0414,2024-07-27,Cape Town,Western Cape,Western Cape,Email
+C00415,Customer 0415,2024-09-13,Cape Town,Western Cape,Western Cape,Paid Search
+C00416,Customer 0416,2024-09-06,Polokwane,Limpopo,Limpopo,Referral
+C00417,Customer 0417,2023-10-20,Cape Town,Western Cape,Western Cape,Referral
+C00418,Customer 0418,2023-04-19,Johannesburg,Gauteng,Gauteng,Direct
+C00419,Customer 0419,2024-12-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00420,Customer 0420,2024-01-20,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00421,Customer 0421,2024-08-08,Tembisa,Gauteng,Gauteng,Social Media
+C00422,Customer 0422,2024-10-22,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00423,Customer 0423,2024-09-30,Johannesburg,Gauteng,Gauteng,Email
+C00424,Customer 0424,2023-12-13,Cape Town,Western Cape,Western Cape,Paid Search
+C00425,Customer 0425,2024-07-24,Polokwane,Limpopo,Limpopo,Paid Search
+C00426,Customer 0426,2023-05-31,Polokwane,Limpopo,Limpopo,Social Media
+C00427,Customer 0427,2024-07-26,Johannesburg,Gauteng,Gauteng,Organic Search
+C00428,Customer 0428,2023-02-11,Johannesburg,Gauteng,Gauteng,Organic Search
+C00429,Customer 0429,2023-02-24,Bloemfontein,Free State,Free State,Paid Search
+C00430,Customer 0430,2023-11-04,Bloemfontein,Free State,Free State,Paid Search
+C00431,Customer 0431,2024-01-14,Pretoria,Gauteng,Gauteng,Paid Search
+C00432,Customer 0432,2023-02-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00433,Customer 0433,2023-07-12,Bloemfontein,Free State,Free State,Email
+C00434,Customer 0434,2024-05-21,Johannesburg,Gauteng,Gauteng,Paid Search
+C00435,Customer 0435,2024-12-25,Johannesburg,Gauteng,Gauteng,Organic Search
+C00436,Customer 0436,2024-08-14,Cape Town,Western Cape,Western Cape,Referral
+C00437,Customer 0437,2024-02-01,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00438,Customer 0438,2023-10-19,Bloemfontein,Free State,Free State,Organic Search
+C00439,Customer 0439,2023-07-06,Mbombela,Mpumalanga,Mpumalanga,Email
+C00440,Customer 0440,2024-10-20,Polokwane,Limpopo,Limpopo,Paid Search
+C00441,Customer 0441,2023-10-13,Johannesburg,Gauteng,Gauteng,Organic Search
+C00442,Customer 0442,2024-02-16,Pretoria,Gauteng,Gauteng,Social Media
+C00443,Customer 0443,2023-03-18,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00444,Customer 0444,2023-11-14,Pretoria,Gauteng,Gauteng,Organic Search
+C00445,Customer 0445,2024-07-10,Polokwane,Limpopo,Limpopo,Referral
+C00446,Customer 0446,2023-12-28,Bloemfontein,Free State,Free State,Organic Search
+C00447,Customer 0447,2024-04-27,Pretoria,Gauteng,Gauteng,Paid Search
+C00448,Customer 0448,2023-07-15,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00449,Customer 0449,2024-01-20,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00450,Customer 0450,2024-10-15,Tembisa,Gauteng,Gauteng,Social Media
+C00451,Customer 0451,2023-07-08,Pretoria,Gauteng,Gauteng,Social Media
+C00452,Customer 0452,2024-01-08,Polokwane,Limpopo,Limpopo,Email
+C00453,Customer 0453,2024-05-05,Tembisa,Gauteng,Gauteng,Organic Search
+C00454,Customer 0454,2024-06-13,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00455,Customer 0455,2023-03-02,Tembisa,Gauteng,Gauteng,Organic Search
+C00456,Customer 0456,2023-09-14,Bloemfontein,Free State,Free State,Referral
+C00457,Customer 0457,2023-02-04,Bloemfontein,Free State,Free State,Direct
+C00458,Customer 0458,2023-03-31,Polokwane,Limpopo,Limpopo,Paid Search
+C00459,Customer 0459,2024-10-24,Bloemfontein,Free State,Free State,Social Media
+C00460,Customer 0460,2024-03-26,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00461,Customer 0461,2023-08-01,Polokwane,Limpopo,Limpopo,Organic Search
+C00462,Customer 0462,2023-09-27,Bloemfontein,Free State,Free State,Organic Search
+C00463,Customer 0463,2024-03-14,Polokwane,Limpopo,Limpopo,Organic Search
+C00464,Customer 0464,2023-04-13,Pretoria,Gauteng,Gauteng,Social Media
+C00465,Customer 0465,2023-09-16,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00466,Customer 0466,2023-09-29,Johannesburg,Gauteng,Gauteng,Direct
+C00467,Customer 0467,2024-02-07,Cape Town,Western Cape,Western Cape,Social Media
+C00468,Customer 0468,2024-10-30,Tembisa,Gauteng,Gauteng,Social Media
+C00469,Customer 0469,2024-10-07,Polokwane,Limpopo,Limpopo,Social Media
+C00470,Customer 0470,2024-11-22,Tembisa,Gauteng,Gauteng,Organic Search
+C00471,Customer 0471,2023-10-10,Bloemfontein,Free State,Free State,Social Media
+C00472,Customer 0472,2023-12-26,Tembisa,Gauteng,Gauteng,Paid Search
+C00473,Customer 0473,2023-12-02,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00474,Customer 0474,2023-02-06,Polokwane,Limpopo,Limpopo,Social Media
+C00475,Customer 0475,2024-10-26,Polokwane,Limpopo,Limpopo,Paid Search
+C00476,Customer 0476,2024-03-17,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00477,Customer 0477,2024-01-26,Tembisa,Gauteng,Gauteng,Organic Search
+C00478,Customer 0478,2024-01-09,Tembisa,Gauteng,Gauteng,Paid Search
+C00479,Customer 0479,2024-08-22,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00480,Customer 0480,2024-02-19,Pretoria,Gauteng,Gauteng,Social Media
+C00481,Customer 0481,2024-08-24,Polokwane,Limpopo,Limpopo,Email
+C00482,Customer 0482,2023-03-12,Pretoria,Gauteng,Gauteng,Email
+C00483,Customer 0483,2024-12-14,Polokwane,Limpopo,Limpopo,Paid Search
+C00484,Customer 0484,2024-05-27,Tembisa,Gauteng,Gauteng,Paid Search
+C00485,Customer 0485,2024-06-19,Bloemfontein,Free State,Free State,Organic Search
+C00486,Customer 0486,2024-07-27,Tembisa,Gauteng,Gauteng,Organic Search
+C00487,Customer 0487,2023-08-01,Pretoria,Gauteng,Gauteng,Referral
+C00488,Customer 0488,2023-02-24,Johannesburg,Gauteng,Gauteng,Paid Search
+C00489,Customer 0489,2023-05-01,Tembisa,Gauteng,Gauteng,Paid Search
+C00490,Customer 0490,2024-06-30,Tembisa,Gauteng,Gauteng,Referral
+C00491,Customer 0491,2023-10-11,Tembisa,Gauteng,Gauteng,Organic Search
+C00492,Customer 0492,2023-02-09,Polokwane,Limpopo,Limpopo,Email
+C00493,Customer 0493,2023-04-17,Bloemfontein,Free State,Free State,Paid Search
+C00494,Customer 0494,2024-05-07,Bloemfontein,Free State,Free State,Social Media
+C00495,Customer 0495,2023-09-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00496,Customer 0496,2023-12-22,Cape Town,Western Cape,Western Cape,Email
+C00497,Customer 0497,2023-09-17,Bloemfontein,Free State,Free State,Referral
+C00498,Customer 0498,2023-08-06,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00499,Customer 0499,2024-06-11,Tembisa,Gauteng,Gauteng,Referral
+C00500,Customer 0500,2024-04-20,Tembisa,Gauteng,Gauteng,Organic Search
+C00501,Customer 0501,2023-12-18,Bloemfontein,Free State,Free State,Social Media
+C00502,Customer 0502,2023-07-23,Pretoria,Gauteng,Gauteng,Direct
+C00503,Customer 0503,2024-10-08,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00504,Customer 0504,2023-09-29,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00505,Customer 0505,2023-10-12,Tembisa,Gauteng,Gauteng,Organic Search
+C00506,Customer 0506,2023-09-28,Cape Town,Western Cape,Western Cape,Direct
+C00507,Customer 0507,2023-11-04,Johannesburg,Gauteng,Gauteng,Organic Search
+C00508,Customer 0508,2024-05-05,Polokwane,Limpopo,Limpopo,Paid Search
+C00509,Customer 0509,2023-12-15,Pretoria,Gauteng,Gauteng,Organic Search
+C00510,Customer 0510,2024-09-22,Polokwane,Limpopo,Limpopo,Referral
+C00511,Customer 0511,2024-08-05,Polokwane,Limpopo,Limpopo,Organic Search
+C00512,Customer 0512,2023-09-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00513,Customer 0513,2023-09-09,Tembisa,Gauteng,Gauteng,Paid Search
+C00514,Customer 0514,2024-10-12,Johannesburg,Gauteng,Gauteng,Organic Search
+C00515,Customer 0515,2024-08-01,Cape Town,Western Cape,Western Cape,Social Media
+C00516,Customer 0516,2024-09-10,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00517,Customer 0517,2024-02-28,Cape Town,Western Cape,Western Cape,Organic Search
+C00518,Customer 0518,2023-10-30,Cape Town,Western Cape,Western Cape,Email
+C00519,Customer 0519,2024-10-29,Bloemfontein,Free State,Free State,Organic Search
+C00520,Customer 0520,2023-05-01,Bloemfontein,Free State,Free State,Social Media
+C00521,Customer 0521,2024-08-07,Cape Town,Western Cape,Western Cape,Paid Search
+C00522,Customer 0522,2023-04-13,Johannesburg,Gauteng,Gauteng,Paid Search
+C00523,Customer 0523,2024-06-24,Mbombela,Mpumalanga,Mpumalanga,Email
+C00524,Customer 0524,2023-07-15,Pretoria,Gauteng,Gauteng,Direct
+C00525,Customer 0525,2023-07-13,Pretoria,Gauteng,Gauteng,Social Media
+C00526,Customer 0526,2023-11-29,Johannesburg,Gauteng,Gauteng,Direct
+C00527,Customer 0527,2023-03-23,Johannesburg,Gauteng,Gauteng,Paid Search
+C00528,Customer 0528,2024-04-17,Polokwane,Limpopo,Limpopo,Email
+C00529,Customer 0529,2024-10-24,Polokwane,Limpopo,Limpopo,Paid Search
+C00530,Customer 0530,2023-05-17,Pretoria,Gauteng,Gauteng,Email
+C00531,Customer 0531,2024-08-18,Polokwane,Limpopo,Limpopo,Organic Search
+C00532,Customer 0532,2023-03-15,Polokwane,Limpopo,Limpopo,Organic Search
+C00533,Customer 0533,2023-08-30,Bloemfontein,Free State,Free State,Email
+C00534,Customer 0534,2024-10-29,Tembisa,Gauteng,Gauteng,Email
+C00535,Customer 0535,2024-11-25,Bloemfontein,Free State,Free State,Paid Search
+C00536,Customer 0536,2024-06-11,Johannesburg,Gauteng,Gauteng,Direct
+C00537,Customer 0537,2024-02-19,Polokwane,Limpopo,Limpopo,Social Media
+C00538,Customer 0538,2024-04-17,Bloemfontein,Free State,Free State,Organic Search
+C00539,Customer 0539,2024-03-15,Cape Town,Western Cape,Western Cape,Paid Search
+C00540,Customer 0540,2023-03-02,Johannesburg,Gauteng,Gauteng,Paid Search
+C00541,Customer 0541,2023-12-22,Pretoria,Gauteng,Gauteng,Paid Search
+C00542,Customer 0542,2023-10-09,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00543,Customer 0543,2024-01-20,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00544,Customer 0544,2023-08-11,Bloemfontein,Free State,Free State,Paid Search
+C00545,Customer 0545,2024-10-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00546,Customer 0546,2023-10-19,Pretoria,Gauteng,Gauteng,Social Media
+C00547,Customer 0547,2023-06-23,Tembisa,Gauteng,Gauteng,Paid Search
+C00548,Customer 0548,2024-10-12,Pretoria,Gauteng,Gauteng,Paid Search
+C00549,Customer 0549,2024-02-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00550,Customer 0550,2024-07-15,Mbombela,Mpumalanga,Mpumalanga,Email
+C00551,Customer 0551,2023-10-02,Polokwane,Limpopo,Limpopo,Organic Search
+C00552,Customer 0552,2023-04-13,Polokwane,Limpopo,Limpopo,Direct
+C00553,Customer 0553,2023-03-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00554,Customer 0554,2024-10-17,Johannesburg,Gauteng,Gauteng,Email
+C00555,Customer 0555,2023-12-26,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00556,Customer 0556,2024-12-01,Tembisa,Gauteng,Gauteng,Organic Search
+C00557,Customer 0557,2024-11-27,Bloemfontein,Free State,Free State,Organic Search
+C00558,Customer 0558,2023-03-13,Cape Town,Western Cape,Western Cape,Paid Search
+C00559,Customer 0559,2023-06-01,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00560,Customer 0560,2023-02-06,Tembisa,Gauteng,Gauteng,Paid Search
+C00561,Customer 0561,2023-12-18,Polokwane,Limpopo,Limpopo,Paid Search
+C00562,Customer 0562,2023-05-25,Pretoria,Gauteng,Gauteng,Organic Search
+C00563,Customer 0563,2023-11-21,Polokwane,Limpopo,Limpopo,Paid Search
+C00564,Customer 0564,2024-04-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00565,Customer 0565,2024-06-25,Johannesburg,Gauteng,Gauteng,Social Media
+C00566,Customer 0566,2023-06-06,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00567,Customer 0567,2023-10-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00568,Customer 0568,2023-08-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00569,Customer 0569,2024-10-18,Tembisa,Gauteng,Gauteng,Social Media
+C00570,Customer 0570,2024-10-04,Bloemfontein,Free State,Free State,Referral
+C00571,Customer 0571,2023-02-18,Polokwane,Limpopo,Limpopo,Paid Search
+C00572,Customer 0572,2023-06-18,Pretoria,Gauteng,Gauteng,Social Media
+C00573,Customer 0573,2024-07-24,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00574,Customer 0574,2023-12-28,Tembisa,Gauteng,Gauteng,Social Media
+C00575,Customer 0575,2024-06-10,Pretoria,Gauteng,Gauteng,Referral
+C00576,Customer 0576,2023-08-15,Cape Town,Western Cape,Western Cape,Organic Search
+C00577,Customer 0577,2023-09-11,Polokwane,Limpopo,Limpopo,Referral
+C00578,Customer 0578,2023-04-16,Tembisa,Gauteng,Gauteng,Direct
+C00579,Customer 0579,2024-02-20,Pretoria,Gauteng,Gauteng,Paid Search
+C00580,Customer 0580,2023-07-13,Bloemfontein,Free State,Free State,Paid Search
+C00581,Customer 0581,2023-05-24,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00582,Customer 0582,2023-03-16,Polokwane,Limpopo,Limpopo,Organic Search
+C00583,Customer 0583,2023-02-05,Bloemfontein,Free State,Free State,Social Media
+C00584,Customer 0584,2023-06-17,Tembisa,Gauteng,Gauteng,Email
+C00585,Customer 0585,2024-08-22,Tembisa,Gauteng,Gauteng,Paid Search
+C00586,Customer 0586,2024-08-27,Johannesburg,Gauteng,Gauteng,Social Media
+C00587,Customer 0587,2024-07-17,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00588,Customer 0588,2024-01-13,Cape Town,Western Cape,Western Cape,Direct
+C00589,Customer 0589,2024-10-13,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00590,Customer 0590,2024-08-26,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00591,Customer 0591,2023-08-06,Pretoria,Gauteng,Gauteng,Email
+C00592,Customer 0592,2024-07-10,Tembisa,Gauteng,Gauteng,Email
+C00593,Customer 0593,2023-06-04,Polokwane,Limpopo,Limpopo,Organic Search
+C00594,Customer 0594,2024-10-10,Johannesburg,Gauteng,Gauteng,Organic Search
+C00595,Customer 0595,2023-03-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00596,Customer 0596,2023-04-10,Mbombela,Mpumalanga,Mpumalanga,Email
+C00597,Customer 0597,2023-03-31,Bloemfontein,Free State,Free State,Social Media
+C00598,Customer 0598,2023-08-26,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00599,Customer 0599,2024-03-03,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00600,Customer 0600,2024-07-24,Johannesburg,Gauteng,Gauteng,Paid Search
+C00601,Customer 0601,2023-09-14,Bloemfontein,Free State,Free State,Organic Search
+C00602,Customer 0602,2024-02-16,Tembisa,Gauteng,Gauteng,Direct
+C00603,Customer 0603,2024-01-14,Polokwane,Limpopo,Limpopo,Direct
+C00604,Customer 0604,2023-12-19,Tembisa,Gauteng,Gauteng,Social Media
+C00605,Customer 0605,2024-02-10,Pretoria,Gauteng,Gauteng,Organic Search
+C00606,Customer 0606,2024-04-03,Pretoria,Gauteng,Gauteng,Paid Search
+C00607,Customer 0607,2024-09-24,Tembisa,Gauteng,Gauteng,Organic Search
+C00608,Customer 0608,2023-04-12,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00609,Customer 0609,2024-02-01,Tembisa,Gauteng,Gauteng,Direct
+C00610,Customer 0610,2024-06-21,Polokwane,Limpopo,Limpopo,Referral
+C00611,Customer 0611,2023-07-24,Bloemfontein,Free State,Free State,Social Media
+C00612,Customer 0612,2023-08-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00613,Customer 0613,2023-08-03,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00614,Customer 0614,2024-05-26,Cape Town,Western Cape,Western Cape,Social Media
+C00615,Customer 0615,2024-11-11,Johannesburg,Gauteng,Gauteng,Paid Search
+C00616,Customer 0616,2024-03-15,Bloemfontein,Free State,Free State,Social Media
+C00617,Customer 0617,2023-10-18,Pretoria,Gauteng,Gauteng,Organic Search
+C00618,Customer 0618,2023-12-24,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00619,Customer 0619,2024-11-16,Polokwane,Limpopo,Limpopo,Paid Search
+C00620,Customer 0620,2023-12-27,Cape Town,Western Cape,Western Cape,Social Media
+C00621,Customer 0621,2023-12-03,Pretoria,Gauteng,Gauteng,Social Media
+C00622,Customer 0622,2023-04-04,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00623,Customer 0623,2024-08-23,Pretoria,Gauteng,Gauteng,Direct
+C00624,Customer 0624,2023-12-16,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00625,Customer 0625,2023-06-10,Polokwane,Limpopo,Limpopo,Direct
+C00626,Customer 0626,2024-06-12,Tembisa,Gauteng,Gauteng,Social Media
+C00627,Customer 0627,2023-08-08,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00628,Customer 0628,2024-08-14,Johannesburg,Gauteng,Gauteng,Email
+C00629,Customer 0629,2023-07-20,Bloemfontein,Free State,Free State,Social Media
+C00630,Customer 0630,2024-02-01,Tembisa,Gauteng,Gauteng,Direct
+C00631,Customer 0631,2024-07-19,Polokwane,Limpopo,Limpopo,Paid Search
+C00632,Customer 0632,2023-05-05,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00633,Customer 0633,2023-06-05,Bloemfontein,Free State,Free State,Paid Search
+C00634,Customer 0634,2023-12-21,Johannesburg,Gauteng,Gauteng,Paid Search
+C00635,Customer 0635,2023-11-02,Pretoria,Gauteng,Gauteng,Social Media
+C00636,Customer 0636,2023-05-01,Johannesburg,Gauteng,Gauteng,Social Media
+C00637,Customer 0637,2024-11-10,Cape Town,Western Cape,Western Cape,Social Media
+C00638,Customer 0638,2023-07-15,Tembisa,Gauteng,Gauteng,Social Media
+C00639,Customer 0639,2024-08-03,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00640,Customer 0640,2024-11-30,Cape Town,Western Cape,Western Cape,Social Media
+C00641,Customer 0641,2024-06-20,Pretoria,Gauteng,Gauteng,Organic Search
+C00642,Customer 0642,2023-10-31,Polokwane,Limpopo,Limpopo,Organic Search
+C00643,Customer 0643,2023-11-08,Cape Town,Western Cape,Western Cape,Social Media
+C00644,Customer 0644,2024-10-30,Bloemfontein,Free State,Free State,Email
+C00645,Customer 0645,2023-06-07,Cape Town,Western Cape,Western Cape,Paid Search
+C00646,Customer 0646,2023-07-13,Bloemfontein,Free State,Free State,Paid Search
+C00647,Customer 0647,2023-09-19,Tembisa,Gauteng,Gauteng,Direct
+C00648,Customer 0648,2023-06-22,Polokwane,Limpopo,Limpopo,Paid Search
+C00649,Customer 0649,2023-04-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00650,Customer 0650,2024-03-22,Cape Town,Western Cape,Western Cape,Social Media
+C00651,Customer 0651,2024-03-03,Cape Town,Western Cape,Western Cape,Referral
+C00652,Customer 0652,2023-08-20,Cape Town,Western Cape,Western Cape,Paid Search
+C00653,Customer 0653,2023-06-08,Polokwane,Limpopo,Limpopo,Direct
+C00654,Customer 0654,2024-03-13,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00655,Customer 0655,2023-11-24,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00656,Customer 0656,2024-03-10,Tembisa,Gauteng,Gauteng,Organic Search
+C00657,Customer 0657,2024-01-13,Pretoria,Gauteng,Gauteng,Direct
+C00658,Customer 0658,2023-08-30,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00659,Customer 0659,2023-06-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00660,Customer 0660,2024-09-12,Tembisa,Gauteng,Gauteng,Social Media
+C00661,Customer 0661,2024-04-28,Cape Town,Western Cape,Western Cape,Organic Search
+C00662,Customer 0662,2023-03-20,Cape Town,Western Cape,Western Cape,Organic Search
+C00663,Customer 0663,2023-11-05,Pretoria,Gauteng,Gauteng,Paid Search
+C00664,Customer 0664,2024-09-21,Bloemfontein,Free State,Free State,Email
+C00665,Customer 0665,2024-12-27,Tembisa,Gauteng,Gauteng,Direct
+C00666,Customer 0666,2023-11-12,Tembisa,Gauteng,Gauteng,Email
+C00667,Customer 0667,2023-09-01,Bloemfontein,Free State,Free State,Email
+C00668,Customer 0668,2024-02-08,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00669,Customer 0669,2024-10-02,Johannesburg,Gauteng,Gauteng,Email
+C00670,Customer 0670,2023-07-04,Cape Town,Western Cape,Western Cape,Email
+C00671,Customer 0671,2024-07-06,Johannesburg,Gauteng,Gauteng,Paid Search
+C00672,Customer 0672,2024-11-25,Tembisa,Gauteng,Gauteng,Direct
+C00673,Customer 0673,2023-08-13,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00674,Customer 0674,2024-11-24,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00675,Customer 0675,2024-01-24,Pretoria,Gauteng,Gauteng,Paid Search
+C00676,Customer 0676,2024-08-17,Bloemfontein,Free State,Free State,Direct
+C00677,Customer 0677,2024-03-28,Bloemfontein,Free State,Free State,Organic Search
+C00678,Customer 0678,2024-01-29,Pretoria,Gauteng,Gauteng,Organic Search
+C00679,Customer 0679,2023-03-10,Bloemfontein,Free State,Free State,Paid Search
+C00680,Customer 0680,2024-12-18,Tembisa,Gauteng,Gauteng,Email
+C00681,Customer 0681,2023-05-31,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00682,Customer 0682,2024-07-06,Cape Town,Western Cape,Western Cape,Social Media
+C00683,Customer 0683,2023-10-22,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00684,Customer 0684,2023-11-18,Pretoria,Gauteng,Gauteng,Email
+C00685,Customer 0685,2024-08-11,Tembisa,Gauteng,Gauteng,Social Media
+C00686,Customer 0686,2024-12-26,Cape Town,Western Cape,Western Cape,Paid Search
+C00687,Customer 0687,2023-10-02,Cape Town,Western Cape,Western Cape,Referral
+C00688,Customer 0688,2024-02-27,Polokwane,Limpopo,Limpopo,Social Media
+C00689,Customer 0689,2024-04-09,Johannesburg,Gauteng,Gauteng,Email
+C00690,Customer 0690,2024-10-30,Cape Town,Western Cape,Western Cape,Email
+C00691,Customer 0691,2024-02-22,Bloemfontein,Free State,Free State,Organic Search
+C00692,Customer 0692,2024-09-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00693,Customer 0693,2023-12-22,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00694,Customer 0694,2024-08-18,Cape Town,Western Cape,Western Cape,Social Media
+C00695,Customer 0695,2023-04-22,Bloemfontein,Free State,Free State,Paid Search
+C00696,Customer 0696,2023-07-01,Bloemfontein,Free State,Free State,Referral
+C00697,Customer 0697,2024-04-23,Cape Town,Western Cape,Western Cape,Email
+C00698,Customer 0698,2023-07-13,Pretoria,Gauteng,Gauteng,Paid Search
+C00699,Customer 0699,2024-10-14,Polokwane,Limpopo,Limpopo,Direct
+C00700,Customer 0700,2024-10-30,Pretoria,Gauteng,Gauteng,Referral
+C00701,Customer 0701,2023-05-26,Cape Town,Western Cape,Western Cape,Social Media
+C00702,Customer 0702,2024-02-01,Tembisa,Gauteng,Gauteng,Direct
+C00703,Customer 0703,2024-09-04,Bloemfontein,Free State,Free State,Email
+C00704,Customer 0704,2024-09-30,Bloemfontein,Free State,Free State,Direct
+C00705,Customer 0705,2024-11-06,Bloemfontein,Free State,Free State,Social Media
+C00706,Customer 0706,2023-09-22,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00707,Customer 0707,2023-02-13,Bloemfontein,Free State,Free State,Referral
+C00708,Customer 0708,2023-11-23,Johannesburg,Gauteng,Gauteng,Paid Search
+C00709,Customer 0709,2024-05-23,Johannesburg,Gauteng,Gauteng,Social Media
+C00710,Customer 0710,2023-10-26,Johannesburg,Gauteng,Gauteng,Paid Search
+C00711,Customer 0711,2023-06-27,Pretoria,Gauteng,Gauteng,Direct
+C00712,Customer 0712,2023-09-06,Pretoria,Gauteng,Gauteng,Organic Search
+C00713,Customer 0713,2024-07-01,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00714,Customer 0714,2023-12-15,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00715,Customer 0715,2023-09-30,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00716,Customer 0716,2023-12-14,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00717,Customer 0717,2023-03-04,Tembisa,Gauteng,Gauteng,Direct
+C00718,Customer 0718,2024-07-03,Pretoria,Gauteng,Gauteng,Direct
+C00719,Customer 0719,2023-07-10,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00720,Customer 0720,2024-12-29,Cape Town,Western Cape,Western Cape,Referral
+C00721,Customer 0721,2023-09-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00722,Customer 0722,2023-07-07,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00723,Customer 0723,2024-04-23,Cape Town,Western Cape,Western Cape,Social Media
+C00724,Customer 0724,2024-03-25,Tembisa,Gauteng,Gauteng,Organic Search
+C00725,Customer 0725,2024-11-30,Pretoria,Gauteng,Gauteng,Referral
+C00726,Customer 0726,2023-04-13,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00727,Customer 0727,2024-04-30,Johannesburg,Gauteng,Gauteng,Organic Search
+C00728,Customer 0728,2023-05-04,Pretoria,Gauteng,Gauteng,Organic Search
+C00729,Customer 0729,2024-04-26,Johannesburg,Gauteng,Gauteng,Email
+C00730,Customer 0730,2023-10-10,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00731,Customer 0731,2024-11-05,Cape Town,Western Cape,Western Cape,Organic Search
+C00732,Customer 0732,2024-05-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00733,Customer 0733,2023-05-21,Polokwane,Limpopo,Limpopo,Social Media
+C00734,Customer 0734,2024-05-04,Polokwane,Limpopo,Limpopo,Paid Search
+C00735,Customer 0735,2023-02-25,Tembisa,Gauteng,Gauteng,Social Media
+C00736,Customer 0736,2024-02-29,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00737,Customer 0737,2023-04-01,Tembisa,Gauteng,Gauteng,Email
+C00738,Customer 0738,2024-11-14,Bloemfontein,Free State,Free State,Direct
+C00739,Customer 0739,2023-07-14,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00740,Customer 0740,2023-11-10,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00741,Customer 0741,2024-06-27,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00742,Customer 0742,2024-04-30,Bloemfontein,Free State,Free State,Referral
+C00743,Customer 0743,2024-08-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00744,Customer 0744,2023-06-06,Johannesburg,Gauteng,Gauteng,Paid Search
+C00745,Customer 0745,2023-06-11,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00746,Customer 0746,2024-04-28,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00747,Customer 0747,2023-03-11,Polokwane,Limpopo,Limpopo,Organic Search
+C00748,Customer 0748,2023-12-19,Bloemfontein,Free State,Free State,Organic Search
+C00749,Customer 0749,2024-11-10,Cape Town,Western Cape,Western Cape,Paid Search
+C00750,Customer 0750,2024-10-19,Johannesburg,Gauteng,Gauteng,Organic Search
+C00751,Customer 0751,2023-08-30,Cape Town,Western Cape,Western Cape,Organic Search
+C00752,Customer 0752,2024-02-26,Polokwane,Limpopo,Limpopo,Direct
+C00753,Customer 0753,2024-05-30,Johannesburg,Gauteng,Gauteng,Direct
+C00754,Customer 0754,2023-08-30,Pretoria,Gauteng,Gauteng,Direct
+C00755,Customer 0755,2023-11-22,Cape Town,Western Cape,Western Cape,Direct
+C00756,Customer 0756,2024-03-18,Polokwane,Limpopo,Limpopo,Paid Search
+C00757,Customer 0757,2024-02-21,Polokwane,Limpopo,Limpopo,Paid Search
+C00758,Customer 0758,2023-09-12,Bloemfontein,Free State,Free State,Organic Search
+C00759,Customer 0759,2024-02-09,Bloemfontein,Free State,Free State,Direct
+C00760,Customer 0760,2024-02-16,Polokwane,Limpopo,Limpopo,Paid Search
+C00761,Customer 0761,2024-08-05,Cape Town,Western Cape,Western Cape,Organic Search
+C00762,Customer 0762,2024-03-05,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00763,Customer 0763,2024-05-11,Polokwane,Limpopo,Limpopo,Paid Search
+C00764,Customer 0764,2023-08-09,Cape Town,Western Cape,Western Cape,Social Media
+C00765,Customer 0765,2024-04-13,Polokwane,Limpopo,Limpopo,Referral
+C00766,Customer 0766,2023-03-16,Bloemfontein,Free State,Free State,Email
+C00767,Customer 0767,2024-07-13,Bloemfontein,Free State,Free State,Email
+C00768,Customer 0768,2024-07-12,Polokwane,Limpopo,Limpopo,Organic Search
+C00769,Customer 0769,2024-06-27,Bloemfontein,Free State,Free State,Direct
+C00770,Customer 0770,2023-07-15,Johannesburg,Gauteng,Gauteng,Organic Search
+C00771,Customer 0771,2023-02-17,Pretoria,Gauteng,Gauteng,Organic Search
+C00772,Customer 0772,2023-11-06,Johannesburg,Gauteng,Gauteng,Organic Search
+C00773,Customer 0773,2024-10-24,Cape Town,Western Cape,Western Cape,Email
+C00774,Customer 0774,2024-05-23,Johannesburg,Gauteng,Gauteng,Social Media
+C00775,Customer 0775,2024-11-01,Polokwane,Limpopo,Limpopo,Social Media
+C00776,Customer 0776,2023-02-26,Bloemfontein,Free State,Free State,Social Media
+C00777,Customer 0777,2023-07-07,Johannesburg,Gauteng,Gauteng,Social Media
+C00778,Customer 0778,2024-12-15,Johannesburg,Gauteng,Gauteng,Social Media
+C00779,Customer 0779,2023-07-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00780,Customer 0780,2023-08-06,Johannesburg,Gauteng,Gauteng,Referral
+C00781,Customer 0781,2024-07-02,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00782,Customer 0782,2023-07-15,Pretoria,Gauteng,Gauteng,Organic Search
+C00783,Customer 0783,2023-04-08,Cape Town,Western Cape,Western Cape,Social Media
+C00784,Customer 0784,2024-04-03,Polokwane,Limpopo,Limpopo,Referral
+C00785,Customer 0785,2023-12-16,Pretoria,Gauteng,Gauteng,Direct
+C00786,Customer 0786,2023-06-03,Bloemfontein,Free State,Free State,Organic Search
+C00787,Customer 0787,2024-02-29,Cape Town,Western Cape,Western Cape,Email
+C00788,Customer 0788,2023-03-04,Pretoria,Gauteng,Gauteng,Direct
+C00789,Customer 0789,2024-09-28,Johannesburg,Gauteng,Gauteng,Paid Search
+C00790,Customer 0790,2023-06-16,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00791,Customer 0791,2024-07-10,Johannesburg,Gauteng,Gauteng,Organic Search
+C00792,Customer 0792,2023-03-13,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00793,Customer 0793,2023-07-11,Pretoria,Gauteng,Gauteng,Direct
+C00794,Customer 0794,2024-05-30,Cape Town,Western Cape,Western Cape,Direct
+C00795,Customer 0795,2024-03-30,Bloemfontein,Free State,Free State,Organic Search
+C00796,Customer 0796,2023-02-01,Pretoria,Gauteng,Gauteng,Direct
+C00797,Customer 0797,2024-07-02,Johannesburg,Gauteng,Gauteng,Direct
+C00798,Customer 0798,2024-12-16,Polokwane,Limpopo,Limpopo,Direct
+C00799,Customer 0799,2023-11-21,Tembisa,Gauteng,Gauteng,Direct
+C00800,Customer 0800,2024-07-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00801,Customer 0801,2023-02-08,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00802,Customer 0802,2023-12-05,Polokwane,Limpopo,Limpopo,Referral
+C00803,Customer 0803,2024-10-13,Tembisa,Gauteng,Gauteng,Social Media
+C00804,Customer 0804,2024-11-08,Polokwane,Limpopo,Limpopo,Organic Search
+C00805,Customer 0805,2024-10-16,Cape Town,Western Cape,Western Cape,Paid Search
+C00806,Customer 0806,2024-02-02,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00807,Customer 0807,2023-09-28,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00808,Customer 0808,2023-06-15,Polokwane,Limpopo,Limpopo,Direct
+C00809,Customer 0809,2024-06-25,Mbombela,Mpumalanga,Mpumalanga,Email
+C00810,Customer 0810,2024-10-06,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00811,Customer 0811,2024-04-24,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00812,Customer 0812,2024-04-02,Pretoria,Gauteng,Gauteng,Organic Search
+C00813,Customer 0813,2023-11-30,Tembisa,Gauteng,Gauteng,Paid Search
+C00814,Customer 0814,2024-09-30,Pretoria,Gauteng,Gauteng,Organic Search
+C00815,Customer 0815,2023-10-04,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00816,Customer 0816,2024-09-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00817,Customer 0817,2023-10-18,Tembisa,Gauteng,Gauteng,Paid Search
+C00818,Customer 0818,2024-09-18,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00819,Customer 0819,2023-06-14,Polokwane,Limpopo,Limpopo,Organic Search
+C00820,Customer 0820,2023-12-04,Polokwane,Limpopo,Limpopo,Organic Search
+C00821,Customer 0821,2023-12-01,Mbombela,Mpumalanga,Mpumalanga,Referral
+C00822,Customer 0822,2023-05-27,Cape Town,Western Cape,Western Cape,Social Media
+C00823,Customer 0823,2024-07-12,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00824,Customer 0824,2024-04-02,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00825,Customer 0825,2024-07-14,Pretoria,Gauteng,Gauteng,Paid Search
+C00826,Customer 0826,2024-03-01,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00827,Customer 0827,2023-12-29,Pretoria,Gauteng,Gauteng,Paid Search
+C00828,Customer 0828,2023-04-02,Cape Town,Western Cape,Western Cape,Social Media
+C00829,Customer 0829,2023-09-21,Cape Town,Western Cape,Western Cape,Organic Search
+C00830,Customer 0830,2024-12-26,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C00831,Customer 0831,2023-04-07,Polokwane,Limpopo,Limpopo,Paid Search
+C00832,Customer 0832,2023-10-09,Polokwane,Limpopo,Limpopo,Paid Search
+C00833,Customer 0833,2024-02-29,Tembisa,Gauteng,Gauteng,Paid Search
+C00834,Customer 0834,2023-08-30,Cape Town,Western Cape,Western Cape,Paid Search
+C00835,Customer 0835,2024-02-10,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00836,Customer 0836,2023-05-23,Bloemfontein,Free State,Free State,Referral
+C00837,Customer 0837,2023-12-13,Polokwane,Limpopo,Limpopo,Paid Search
+C00838,Customer 0838,2023-12-25,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00839,Customer 0839,2023-05-06,Cape Town,Western Cape,Western Cape,Direct
+C00840,Customer 0840,2023-02-03,Tembisa,Gauteng,Gauteng,Referral
+C00841,Customer 0841,2023-09-17,Johannesburg,Gauteng,Gauteng,Direct
+C00842,Customer 0842,2023-10-11,Cape Town,Western Cape,Western Cape,Referral
+C00843,Customer 0843,2023-11-10,Pretoria,Gauteng,Gauteng,Email
+C00844,Customer 0844,2023-03-25,Tembisa,Gauteng,Gauteng,Paid Search
+C00845,Customer 0845,2023-02-27,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00846,Customer 0846,2023-12-12,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00847,Customer 0847,2023-05-16,Bloemfontein,Free State,Free State,Paid Search
+C00848,Customer 0848,2023-06-25,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00849,Customer 0849,2023-07-02,Polokwane,Limpopo,Limpopo,Social Media
+C00850,Customer 0850,2024-09-12,Pretoria,Gauteng,Gauteng,Referral
+C00851,Customer 0851,2024-07-15,Polokwane,Limpopo,Limpopo,Email
+C00852,Customer 0852,2023-06-05,Johannesburg,Gauteng,Gauteng,Direct
+C00853,Customer 0853,2024-01-28,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00854,Customer 0854,2024-09-15,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00855,Customer 0855,2024-05-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00856,Customer 0856,2023-10-03,Cape Town,Western Cape,Western Cape,Paid Search
+C00857,Customer 0857,2023-02-06,Bloemfontein,Free State,Free State,Social Media
+C00858,Customer 0858,2024-01-14,Tembisa,Gauteng,Gauteng,Direct
+C00859,Customer 0859,2024-09-16,Bloemfontein,Free State,Free State,Paid Search
+C00860,Customer 0860,2024-09-05,Pretoria,Gauteng,Gauteng,Referral
+C00861,Customer 0861,2024-01-11,Tembisa,Gauteng,Gauteng,Paid Search
+C00862,Customer 0862,2024-06-04,Bloemfontein,Free State,Free State,Social Media
+C00863,Customer 0863,2023-09-02,Polokwane,Limpopo,Limpopo,Organic Search
+C00864,Customer 0864,2024-02-10,Bloemfontein,Free State,Free State,Organic Search
+C00865,Customer 0865,2024-09-06,Johannesburg,Gauteng,Gauteng,Organic Search
+C00866,Customer 0866,2023-03-10,Polokwane,Limpopo,Limpopo,Organic Search
+C00867,Customer 0867,2024-04-27,Tembisa,Gauteng,Gauteng,Social Media
+C00868,Customer 0868,2024-01-29,Tembisa,Gauteng,Gauteng,Social Media
+C00869,Customer 0869,2024-05-09,Bloemfontein,Free State,Free State,Referral
+C00870,Customer 0870,2024-06-25,Tembisa,Gauteng,Gauteng,Email
+C00871,Customer 0871,2023-11-23,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00872,Customer 0872,2023-09-29,Cape Town,Western Cape,Western Cape,Social Media
+C00873,Customer 0873,2024-12-28,Mbombela,Mpumalanga,Mpumalanga,Email
+C00874,Customer 0874,2024-03-22,Cape Town,Western Cape,Western Cape,Referral
+C00875,Customer 0875,2023-05-21,Pretoria,Gauteng,Gauteng,Organic Search
+C00876,Customer 0876,2023-12-24,Tembisa,Gauteng,Gauteng,Paid Search
+C00877,Customer 0877,2024-09-07,Bloemfontein,Free State,Free State,Paid Search
+C00878,Customer 0878,2023-07-11,Bloemfontein,Free State,Free State,Direct
+C00879,Customer 0879,2023-05-01,Polokwane,Limpopo,Limpopo,Paid Search
+C00880,Customer 0880,2023-05-11,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00881,Customer 0881,2023-09-21,Polokwane,Limpopo,Limpopo,Social Media
+C00882,Customer 0882,2023-04-13,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00883,Customer 0883,2024-02-16,Tembisa,Gauteng,Gauteng,Organic Search
+C00884,Customer 0884,2024-09-04,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00885,Customer 0885,2023-07-28,Tembisa,Gauteng,Gauteng,Paid Search
+C00886,Customer 0886,2023-05-24,Tembisa,Gauteng,Gauteng,Paid Search
+C00887,Customer 0887,2023-08-22,Tembisa,Gauteng,Gauteng,Email
+C00888,Customer 0888,2023-06-13,Tembisa,Gauteng,Gauteng,Organic Search
+C00889,Customer 0889,2024-08-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00890,Customer 0890,2023-04-08,Bloemfontein,Free State,Free State,Organic Search
+C00891,Customer 0891,2024-12-23,Polokwane,Limpopo,Limpopo,Social Media
+C00892,Customer 0892,2023-12-05,Cape Town,Western Cape,Western Cape,Direct
+C00893,Customer 0893,2023-11-10,Bloemfontein,Free State,Free State,Email
+C00894,Customer 0894,2023-10-05,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00895,Customer 0895,2023-06-03,Pretoria,Gauteng,Gauteng,Organic Search
+C00896,Customer 0896,2024-03-08,Cape Town,Western Cape,Western Cape,Organic Search
+C00897,Customer 0897,2023-07-01,Cape Town,Western Cape,Western Cape,Paid Search
+C00898,Customer 0898,2023-06-02,Bloemfontein,Free State,Free State,Email
+C00899,Customer 0899,2023-06-19,Bloemfontein,Free State,Free State,Social Media
+C00900,Customer 0900,2024-04-02,Pretoria,Gauteng,Gauteng,Referral
+C00901,Customer 0901,2023-06-26,Polokwane,Limpopo,Limpopo,Referral
+C00902,Customer 0902,2023-10-08,Johannesburg,Gauteng,Gauteng,Social Media
+C00903,Customer 0903,2024-09-19,Mbombela,Mpumalanga,Mpumalanga,Email
+C00904,Customer 0904,2024-03-03,Cape Town,Western Cape,Western Cape,Direct
+C00905,Customer 0905,2023-09-29,Johannesburg,Gauteng,Gauteng,Paid Search
+C00906,Customer 0906,2023-10-10,Pretoria,Gauteng,Gauteng,Direct
+C00907,Customer 0907,2024-05-04,Pretoria,Gauteng,Gauteng,Organic Search
+C00908,Customer 0908,2023-04-18,Polokwane,Limpopo,Limpopo,Email
+C00909,Customer 0909,2023-04-12,Tembisa,Gauteng,Gauteng,Organic Search
+C00910,Customer 0910,2024-06-04,Cape Town,Western Cape,Western Cape,Referral
+C00911,Customer 0911,2023-07-06,Polokwane,Limpopo,Limpopo,Paid Search
+C00912,Customer 0912,2024-02-05,Tembisa,Gauteng,Gauteng,Direct
+C00913,Customer 0913,2024-03-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00914,Customer 0914,2024-08-16,Pretoria,Gauteng,Gauteng,Direct
+C00915,Customer 0915,2024-11-02,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00916,Customer 0916,2024-08-19,Tembisa,Gauteng,Gauteng,Organic Search
+C00917,Customer 0917,2024-04-23,Polokwane,Limpopo,Limpopo,Referral
+C00918,Customer 0918,2023-08-19,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C00919,Customer 0919,2023-03-31,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00920,Customer 0920,2024-10-16,Bloemfontein,Free State,Free State,Email
+C00921,Customer 0921,2023-11-16,Pretoria,Gauteng,Gauteng,Social Media
+C00922,Customer 0922,2023-12-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00923,Customer 0923,2024-02-01,Bloemfontein,Free State,Free State,Social Media
+C00924,Customer 0924,2023-09-20,Pretoria,Gauteng,Gauteng,Email
+C00925,Customer 0925,2024-10-29,Polokwane,Limpopo,Limpopo,Referral
+C00926,Customer 0926,2024-05-23,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00927,Customer 0927,2023-08-14,Cape Town,Western Cape,Western Cape,Paid Search
+C00928,Customer 0928,2024-01-22,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00929,Customer 0929,2023-06-02,Tembisa,Gauteng,Gauteng,Direct
+C00930,Customer 0930,2023-02-03,Polokwane,Limpopo,Limpopo,Referral
+C00931,Customer 0931,2024-09-22,Johannesburg,Gauteng,Gauteng,Social Media
+C00932,Customer 0932,2024-12-16,Bloemfontein,Free State,Free State,Organic Search
+C00933,Customer 0933,2023-10-08,Tembisa,Gauteng,Gauteng,Social Media
+C00934,Customer 0934,2024-06-08,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00935,Customer 0935,2023-03-08,Tembisa,Gauteng,Gauteng,Paid Search
+C00936,Customer 0936,2024-09-28,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C00937,Customer 0937,2024-10-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00938,Customer 0938,2024-11-09,Tembisa,Gauteng,Gauteng,Paid Search
+C00939,Customer 0939,2024-05-07,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00940,Customer 0940,2024-09-26,Pretoria,Gauteng,Gauteng,Organic Search
+C00941,Customer 0941,2024-10-14,Bloemfontein,Free State,Free State,Organic Search
+C00942,Customer 0942,2023-07-20,Cape Town,Western Cape,Western Cape,Email
+C00943,Customer 0943,2024-12-24,Johannesburg,Gauteng,Gauteng,Email
+C00944,Customer 0944,2023-10-27,Pretoria,Gauteng,Gauteng,Email
+C00945,Customer 0945,2024-10-21,Bloemfontein,Free State,Free State,Organic Search
+C00946,Customer 0946,2024-09-19,Pretoria,Gauteng,Gauteng,Organic Search
+C00947,Customer 0947,2024-03-01,Polokwane,Limpopo,Limpopo,Organic Search
+C00948,Customer 0948,2023-03-17,Tembisa,Gauteng,Gauteng,Direct
+C00949,Customer 0949,2024-10-23,Tembisa,Gauteng,Gauteng,Social Media
+C00950,Customer 0950,2023-04-18,Johannesburg,Gauteng,Gauteng,Email
+C00951,Customer 0951,2024-01-08,Bloemfontein,Free State,Free State,Email
+C00952,Customer 0952,2023-11-07,Tembisa,Gauteng,Gauteng,Social Media
+C00953,Customer 0953,2024-05-24,Bloemfontein,Free State,Free State,Organic Search
+C00954,Customer 0954,2024-08-11,Pretoria,Gauteng,Gauteng,Referral
+C00955,Customer 0955,2024-01-08,Mbombela,Mpumalanga,Mpumalanga,Direct
+C00956,Customer 0956,2024-08-11,Polokwane,Limpopo,Limpopo,Organic Search
+C00957,Customer 0957,2024-04-22,Pretoria,Gauteng,Gauteng,Social Media
+C00958,Customer 0958,2024-12-05,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00959,Customer 0959,2024-06-05,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C00960,Customer 0960,2023-11-27,Cape Town,Western Cape,Western Cape,Paid Search
+C00961,Customer 0961,2024-05-01,Johannesburg,Gauteng,Gauteng,Social Media
+C00962,Customer 0962,2024-04-30,Pretoria,Gauteng,Gauteng,Social Media
+C00963,Customer 0963,2023-07-11,Pretoria,Gauteng,Gauteng,Direct
+C00964,Customer 0964,2023-12-29,Johannesburg,Gauteng,Gauteng,Direct
+C00965,Customer 0965,2023-12-02,Tembisa,Gauteng,Gauteng,Direct
+C00966,Customer 0966,2023-12-24,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00967,Customer 0967,2023-09-07,Tembisa,Gauteng,Gauteng,Direct
+C00968,Customer 0968,2024-12-15,Pretoria,Gauteng,Gauteng,Social Media
+C00969,Customer 0969,2024-04-08,Johannesburg,Gauteng,Gauteng,Organic Search
+C00970,Customer 0970,2023-11-21,Johannesburg,Gauteng,Gauteng,Social Media
+C00971,Customer 0971,2023-10-26,Mbombela,Mpumalanga,Mpumalanga,Email
+C00972,Customer 0972,2023-03-18,Pretoria,Gauteng,Gauteng,Social Media
+C00973,Customer 0973,2024-03-23,Tembisa,Gauteng,Gauteng,Organic Search
+C00974,Customer 0974,2023-07-28,Pretoria,Gauteng,Gauteng,Direct
+C00975,Customer 0975,2023-07-02,Tembisa,Gauteng,Gauteng,Paid Search
+C00976,Customer 0976,2024-02-19,Pretoria,Gauteng,Gauteng,Email
+C00977,Customer 0977,2024-11-03,Cape Town,Western Cape,Western Cape,Organic Search
+C00978,Customer 0978,2024-09-05,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C00979,Customer 0979,2024-02-20,Johannesburg,Gauteng,Gauteng,Email
+C00980,Customer 0980,2024-09-01,Tembisa,Gauteng,Gauteng,Organic Search
+C00981,Customer 0981,2024-12-21,Tembisa,Gauteng,Gauteng,Organic Search
+C00982,Customer 0982,2023-07-16,Polokwane,Limpopo,Limpopo,Social Media
+C00983,Customer 0983,2024-07-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C00984,Customer 0984,2024-09-03,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C00985,Customer 0985,2024-01-24,Johannesburg,Gauteng,Gauteng,Referral
+C00986,Customer 0986,2023-07-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C00987,Customer 0987,2023-08-12,Pretoria,Gauteng,Gauteng,Social Media
+C00988,Customer 0988,2024-11-06,Polokwane,Limpopo,Limpopo,Social Media
+C00989,Customer 0989,2023-12-22,Tembisa,Gauteng,Gauteng,Organic Search
+C00990,Customer 0990,2023-05-25,Pretoria,Gauteng,Gauteng,Email
+C00991,Customer 0991,2024-05-13,Pretoria,Gauteng,Gauteng,Email
+C00992,Customer 0992,2024-11-17,Johannesburg,Gauteng,Gauteng,Direct
+C00993,Customer 0993,2024-04-26,Johannesburg,Gauteng,Gauteng,Organic Search
+C00994,Customer 0994,2023-12-06,Polokwane,Limpopo,Limpopo,Direct
+C00995,Customer 0995,2024-11-26,Tembisa,Gauteng,Gauteng,Social Media
+C00996,Customer 0996,2024-05-17,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00997,Customer 0997,2024-02-09,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C00998,Customer 0998,2023-05-27,Pretoria,Gauteng,Gauteng,Paid Search
+C00999,Customer 0999,2024-07-02,Johannesburg,Gauteng,Gauteng,Organic Search
+C01000,Customer 1000,2023-11-18,Johannesburg,Gauteng,Gauteng,Organic Search
+C01001,Customer 1001,2024-03-18,Bloemfontein,Free State,Free State,Referral
+C01002,Customer 1002,2024-02-01,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01003,Customer 1003,2024-12-24,Bloemfontein,Free State,Free State,Paid Search
+C01004,Customer 1004,2023-06-04,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C01005,Customer 1005,2023-09-14,Cape Town,Western Cape,Western Cape,Paid Search
+C01006,Customer 1006,2024-06-15,Bloemfontein,Free State,Free State,Email
+C01007,Customer 1007,2024-07-31,Cape Town,Western Cape,Western Cape,Organic Search
+C01008,Customer 1008,2024-12-08,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01009,Customer 1009,2023-03-22,Polokwane,Limpopo,Limpopo,Referral
+C01010,Customer 1010,2024-01-24,Johannesburg,Gauteng,Gauteng,Organic Search
+C01011,Customer 1011,2024-02-22,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01012,Customer 1012,2023-10-30,Cape Town,Western Cape,Western Cape,Social Media
+C01013,Customer 1013,2024-08-09,Johannesburg,Gauteng,Gauteng,Email
+C01014,Customer 1014,2024-11-18,Pretoria,Gauteng,Gauteng,Direct
+C01015,Customer 1015,2023-12-17,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C01016,Customer 1016,2023-05-18,Pretoria,Gauteng,Gauteng,Organic Search
+C01017,Customer 1017,2023-03-21,Tembisa,Gauteng,Gauteng,Referral
+C01018,Customer 1018,2023-05-06,Pretoria,Gauteng,Gauteng,Social Media
+C01019,Customer 1019,2023-02-23,Mbombela,Mpumalanga,Mpumalanga,Direct
+C01020,Customer 1020,2024-03-09,Cape Town,Western Cape,Western Cape,Paid Search
+C01021,Customer 1021,2023-11-26,Polokwane,Limpopo,Limpopo,Email
+C01022,Customer 1022,2024-02-11,Polokwane,Limpopo,Limpopo,Social Media
+C01023,Customer 1023,2024-10-17,Cape Town,Western Cape,Western Cape,Direct
+C01024,Customer 1024,2023-05-14,Tembisa,Gauteng,Gauteng,Organic Search
+C01025,Customer 1025,2024-07-17,Pretoria,Gauteng,Gauteng,Paid Search
+C01026,Customer 1026,2023-11-12,Polokwane,Limpopo,Limpopo,Organic Search
+C01027,Customer 1027,2024-06-03,Polokwane,Limpopo,Limpopo,Social Media
+C01028,Customer 1028,2024-04-05,Bloemfontein,Free State,Free State,Direct
+C01029,Customer 1029,2024-07-24,Pretoria,Gauteng,Gauteng,Referral
+C01030,Customer 1030,2023-04-25,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01031,Customer 1031,2024-08-03,Polokwane,Limpopo,Limpopo,Organic Search
+C01032,Customer 1032,2024-01-03,Cape Town,Western Cape,Western Cape,Paid Search
+C01033,Customer 1033,2023-02-08,Johannesburg,Gauteng,Gauteng,Paid Search
+C01034,Customer 1034,2024-12-01,Tembisa,Gauteng,Gauteng,Direct
+C01035,Customer 1035,2023-06-12,Bloemfontein,Free State,Free State,Email
+C01036,Customer 1036,2024-09-27,Cape Town,Western Cape,Western Cape,Social Media
+C01037,Customer 1037,2024-08-30,Tembisa,Gauteng,Gauteng,Organic Search
+C01038,Customer 1038,2024-08-21,Cape Town,Western Cape,Western Cape,Organic Search
+C01039,Customer 1039,2023-12-17,Mbombela,Mpumalanga,Mpumalanga,Email
+C01040,Customer 1040,2023-05-16,Pretoria,Gauteng,Gauteng,Social Media
+C01041,Customer 1041,2024-12-10,Pretoria,Gauteng,Gauteng,Direct
+C01042,Customer 1042,2023-03-12,Cape Town,Western Cape,Western Cape,Paid Search
+C01043,Customer 1043,2024-09-29,Tembisa,Gauteng,Gauteng,Direct
+C01044,Customer 1044,2024-08-29,Polokwane,Limpopo,Limpopo,Organic Search
+C01045,Customer 1045,2024-11-11,Bloemfontein,Free State,Free State,Organic Search
+C01046,Customer 1046,2023-11-24,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C01047,Customer 1047,2023-02-02,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01048,Customer 1048,2024-05-27,Polokwane,Limpopo,Limpopo,Direct
+C01049,Customer 1049,2024-03-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01050,Customer 1050,2024-11-27,Tembisa,Gauteng,Gauteng,Social Media
+C01051,Customer 1051,2023-03-11,Cape Town,Western Cape,Western Cape,Paid Search
+C01052,Customer 1052,2023-06-18,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C01053,Customer 1053,2024-03-21,Pretoria,Gauteng,Gauteng,Paid Search
+C01054,Customer 1054,2024-06-11,Mbombela,Mpumalanga,Mpumalanga,Email
+C01055,Customer 1055,2023-03-28,Cape Town,Western Cape,Western Cape,Direct
+C01056,Customer 1056,2023-12-07,Johannesburg,Gauteng,Gauteng,Referral
+C01057,Customer 1057,2023-08-29,Polokwane,Limpopo,Limpopo,Social Media
+C01058,Customer 1058,2024-01-15,Bloemfontein,Free State,Free State,Direct
+C01059,Customer 1059,2023-12-01,Polokwane,Limpopo,Limpopo,Paid Search
+C01060,Customer 1060,2024-02-10,Johannesburg,Gauteng,Gauteng,Social Media
+C01061,Customer 1061,2024-03-20,Johannesburg,Gauteng,Gauteng,Organic Search
+C01062,Customer 1062,2023-07-09,Bloemfontein,Free State,Free State,Paid Search
+C01063,Customer 1063,2024-07-22,Cape Town,Western Cape,Western Cape,Organic Search
+C01064,Customer 1064,2024-04-04,Cape Town,Western Cape,Western Cape,Social Media
+C01065,Customer 1065,2024-05-22,Johannesburg,Gauteng,Gauteng,Social Media
+C01066,Customer 1066,2024-01-04,Mbombela,Mpumalanga,Mpumalanga,Direct
+C01067,Customer 1067,2024-07-05,Tembisa,Gauteng,Gauteng,Organic Search
+C01068,Customer 1068,2023-12-31,Polokwane,Limpopo,Limpopo,Direct
+C01069,Customer 1069,2024-01-07,Johannesburg,Gauteng,Gauteng,Direct
+C01070,Customer 1070,2023-06-05,Tembisa,Gauteng,Gauteng,Direct
+C01071,Customer 1071,2023-06-26,Bloemfontein,Free State,Free State,Paid Search
+C01072,Customer 1072,2024-11-24,Bloemfontein,Free State,Free State,Organic Search
+C01073,Customer 1073,2023-04-26,Cape Town,Western Cape,Western Cape,Organic Search
+C01074,Customer 1074,2025-01-01,Bloemfontein,Free State,Free State,Paid Search
+C01075,Customer 1075,2024-08-21,Cape Town,Western Cape,Western Cape,Paid Search
+C01076,Customer 1076,2024-02-05,Tembisa,Gauteng,Gauteng,Organic Search
+C01077,Customer 1077,2023-05-12,Tembisa,Gauteng,Gauteng,Email
+C01078,Customer 1078,2024-09-10,Tembisa,Gauteng,Gauteng,Referral
+C01079,Customer 1079,2024-10-19,Polokwane,Limpopo,Limpopo,Paid Search
+C01080,Customer 1080,2023-05-12,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01081,Customer 1081,2024-02-06,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01082,Customer 1082,2023-10-12,Tembisa,Gauteng,Gauteng,Referral
+C01083,Customer 1083,2023-03-09,Bloemfontein,Free State,Free State,Paid Search
+C01084,Customer 1084,2024-05-18,Polokwane,Limpopo,Limpopo,Email
+C01085,Customer 1085,2023-12-11,Tembisa,Gauteng,Gauteng,Paid Search
+C01086,Customer 1086,2024-08-24,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01087,Customer 1087,2023-05-26,Johannesburg,Gauteng,Gauteng,Paid Search
+C01088,Customer 1088,2024-06-29,Johannesburg,Gauteng,Gauteng,Social Media
+C01089,Customer 1089,2023-03-19,Cape Town,Western Cape,Western Cape,Social Media
+C01090,Customer 1090,2024-08-10,Bloemfontein,Free State,Free State,Paid Search
+C01091,Customer 1091,2024-05-03,Pretoria,Gauteng,Gauteng,Paid Search
+C01092,Customer 1092,2024-07-14,Polokwane,Limpopo,Limpopo,Email
+C01093,Customer 1093,2023-02-15,Pretoria,Gauteng,Gauteng,Email
+C01094,Customer 1094,2023-10-02,Polokwane,Limpopo,Limpopo,Organic Search
+C01095,Customer 1095,2024-04-21,Cape Town,Western Cape,Western Cape,Email
+C01096,Customer 1096,2024-04-14,Polokwane,Limpopo,Limpopo,Referral
+C01097,Customer 1097,2024-11-13,Johannesburg,Gauteng,Gauteng,Paid Search
+C01098,Customer 1098,2024-07-15,Mbombela,Mpumalanga,Mpumalanga,Direct
+C01099,Customer 1099,2023-12-11,Bloemfontein,Free State,Free State,Paid Search
+C01100,Customer 1100,2024-09-20,Mbombela,Mpumalanga,Mpumalanga,Referral
+C01101,Customer 1101,2024-07-19,Cape Town,Western Cape,Western Cape,Social Media
+C01102,Customer 1102,2024-03-06,Johannesburg,Gauteng,Gauteng,Organic Search
+C01103,Customer 1103,2024-09-16,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01104,Customer 1104,2023-12-14,Tembisa,Gauteng,Gauteng,Organic Search
+C01105,Customer 1105,2023-06-21,Pretoria,Gauteng,Gauteng,Direct
+C01106,Customer 1106,2024-01-21,Pretoria,Gauteng,Gauteng,Social Media
+C01107,Customer 1107,2024-12-01,Bloemfontein,Free State,Free State,Paid Search
+C01108,Customer 1108,2023-04-21,Tembisa,Gauteng,Gauteng,Direct
+C01109,Customer 1109,2024-11-08,Tembisa,Gauteng,Gauteng,Organic Search
+C01110,Customer 1110,2024-06-21,Cape Town,Western Cape,Western Cape,Paid Search
+C01111,Customer 1111,2023-02-25,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01112,Customer 1112,2024-09-25,Cape Town,Western Cape,Western Cape,Organic Search
+C01113,Customer 1113,2024-07-28,Bloemfontein,Free State,Free State,Organic Search
+C01114,Customer 1114,2023-10-22,Johannesburg,Gauteng,Gauteng,Organic Search
+C01115,Customer 1115,2024-06-11,Bloemfontein,Free State,Free State,Organic Search
+C01116,Customer 1116,2024-07-11,Cape Town,Western Cape,Western Cape,Email
+C01117,Customer 1117,2023-09-05,Pretoria,Gauteng,Gauteng,Referral
+C01118,Customer 1118,2023-11-21,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C01119,Customer 1119,2024-09-30,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C01120,Customer 1120,2024-06-26,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01121,Customer 1121,2023-12-20,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01122,Customer 1122,2024-04-07,Johannesburg,Gauteng,Gauteng,Paid Search
+C01123,Customer 1123,2024-05-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C01124,Customer 1124,2024-07-31,Johannesburg,Gauteng,Gauteng,Referral
+C01125,Customer 1125,2024-10-06,Pretoria,Gauteng,Gauteng,Email
+C01126,Customer 1126,2023-05-09,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01127,Customer 1127,2023-12-02,Johannesburg,Gauteng,Gauteng,Referral
+C01128,Customer 1128,2023-07-03,Mbombela,Mpumalanga,Mpumalanga,Email
+C01129,Customer 1129,2023-05-26,Bloemfontein,Free State,Free State,Direct
+C01130,Customer 1130,2024-03-01,Bloemfontein,Free State,Free State,Organic Search
+C01131,Customer 1131,2023-08-06,Johannesburg,Gauteng,Gauteng,Social Media
+C01132,Customer 1132,2024-08-31,Tembisa,Gauteng,Gauteng,Direct
+C01133,Customer 1133,2024-07-08,Bloemfontein,Free State,Free State,Direct
+C01134,Customer 1134,2024-05-30,Tembisa,Gauteng,Gauteng,Referral
+C01135,Customer 1135,2024-11-19,Tembisa,Gauteng,Gauteng,Paid Search
+C01136,Customer 1136,2024-06-09,Mbombela,Mpumalanga,Mpumalanga,Direct
+C01137,Customer 1137,2023-05-03,Tembisa,Gauteng,Gauteng,Paid Search
+C01138,Customer 1138,2024-10-04,Pretoria,Gauteng,Gauteng,Paid Search
+C01139,Customer 1139,2023-06-16,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01140,Customer 1140,2023-07-19,Durban,KwaZulu-Natal,KwaZulu-Natal,Social Media
+C01141,Customer 1141,2023-04-04,Johannesburg,Gauteng,Gauteng,Social Media
+C01142,Customer 1142,2024-09-08,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01143,Customer 1143,2023-06-01,Tembisa,Gauteng,Gauteng,Social Media
+C01144,Customer 1144,2024-09-15,Pretoria,Gauteng,Gauteng,Social Media
+C01145,Customer 1145,2024-03-15,Pretoria,Gauteng,Gauteng,Direct
+C01146,Customer 1146,2023-11-08,Polokwane,Limpopo,Limpopo,Paid Search
+C01147,Customer 1147,2023-05-27,Bloemfontein,Free State,Free State,Social Media
+C01148,Customer 1148,2024-07-09,Johannesburg,Gauteng,Gauteng,Paid Search
+C01149,Customer 1149,2023-04-09,Tembisa,Gauteng,Gauteng,Social Media
+C01150,Customer 1150,2024-11-23,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01151,Customer 1151,2024-05-03,Polokwane,Limpopo,Limpopo,Organic Search
+C01152,Customer 1152,2024-04-01,Bloemfontein,Free State,Free State,Direct
+C01153,Customer 1153,2024-01-22,Johannesburg,Gauteng,Gauteng,Referral
+C01154,Customer 1154,2024-02-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01155,Customer 1155,2024-09-23,Bloemfontein,Free State,Free State,Direct
+C01156,Customer 1156,2024-08-17,Cape Town,Western Cape,Western Cape,Paid Search
+C01157,Customer 1157,2024-02-08,Bloemfontein,Free State,Free State,Paid Search
+C01158,Customer 1158,2023-04-23,Mbombela,Mpumalanga,Mpumalanga,Email
+C01159,Customer 1159,2023-10-07,Cape Town,Western Cape,Western Cape,Organic Search
+C01160,Customer 1160,2023-08-24,Mbombela,Mpumalanga,Mpumalanga,Referral
+C01161,Customer 1161,2024-11-05,Polokwane,Limpopo,Limpopo,Social Media
+C01162,Customer 1162,2024-10-26,Tembisa,Gauteng,Gauteng,Paid Search
+C01163,Customer 1163,2024-08-16,Mbombela,Mpumalanga,Mpumalanga,Referral
+C01164,Customer 1164,2024-07-08,Johannesburg,Gauteng,Gauteng,Organic Search
+C01165,Customer 1165,2024-11-03,Cape Town,Western Cape,Western Cape,Organic Search
+C01166,Customer 1166,2024-11-11,Bloemfontein,Free State,Free State,Direct
+C01167,Customer 1167,2024-03-27,Cape Town,Western Cape,Western Cape,Paid Search
+C01168,Customer 1168,2023-08-03,Bloemfontein,Free State,Free State,Paid Search
+C01169,Customer 1169,2023-02-04,Pretoria,Gauteng,Gauteng,Organic Search
+C01170,Customer 1170,2023-08-20,Polokwane,Limpopo,Limpopo,Social Media
+C01171,Customer 1171,2023-09-04,Tembisa,Gauteng,Gauteng,Social Media
+C01172,Customer 1172,2024-01-15,Polokwane,Limpopo,Limpopo,Organic Search
+C01173,Customer 1173,2024-10-01,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01174,Customer 1174,2024-11-12,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01175,Customer 1175,2024-05-20,Cape Town,Western Cape,Western Cape,Email
+C01176,Customer 1176,2024-04-01,Cape Town,Western Cape,Western Cape,Email
+C01177,Customer 1177,2023-02-03,Johannesburg,Gauteng,Gauteng,Organic Search
+C01178,Customer 1178,2023-03-11,Tembisa,Gauteng,Gauteng,Organic Search
+C01179,Customer 1179,2024-05-17,Johannesburg,Gauteng,Gauteng,Paid Search
+C01180,Customer 1180,2023-03-15,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01181,Customer 1181,2024-01-10,Mbombela,Mpumalanga,Mpumalanga,Social Media
+C01182,Customer 1182,2023-09-12,Cape Town,Western Cape,Western Cape,Paid Search
+C01183,Customer 1183,2023-05-14,Mbombela,Mpumalanga,Mpumalanga,Organic Search
+C01184,Customer 1184,2023-06-07,Polokwane,Limpopo,Limpopo,Email
+C01185,Customer 1185,2024-03-02,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C01186,Customer 1186,2024-10-28,Bloemfontein,Free State,Free State,Paid Search
+C01187,Customer 1187,2023-03-18,Durban,KwaZulu-Natal,KwaZulu-Natal,Paid Search
+C01188,Customer 1188,2024-04-09,Durban,KwaZulu-Natal,KwaZulu-Natal,Email
+C01189,Customer 1189,2024-06-23,Durban,KwaZulu-Natal,KwaZulu-Natal,Organic Search
+C01190,Customer 1190,2024-11-04,Cape Town,Western Cape,Western Cape,Referral
+C01191,Customer 1191,2023-02-25,Mbombela,Mpumalanga,Mpumalanga,Paid Search
+C01192,Customer 1192,2024-12-06,Tembisa,Gauteng,Gauteng,Email
+C01193,Customer 1193,2024-04-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Direct
+C01194,Customer 1194,2023-12-01,Mbombela,Mpumalanga,Mpumalanga,Email
+C01195,Customer 1195,2024-01-16,Cape Town,Western Cape,Western Cape,Email
+C01196,Customer 1196,2023-07-04,Cape Town,Western Cape,Western Cape,Email
+C01197,Customer 1197,2023-02-14,Bloemfontein,Free State,Free State,Paid Search
+C01198,Customer 1198,2024-07-11,Durban,KwaZulu-Natal,KwaZulu-Natal,Referral
+C01199,Customer 1199,2024-03-07,Tembisa,Gauteng,Gauteng,Organic Search
+C01200,Customer 1200,2024-04-12,Tembisa,Gauteng,Gauteng,Email

@@ -1,0 +1,17 @@
+product_id,sku,category,sub_category,unit_price,unit_cost
+P001,SKU001,Electronics,Laptop,12212.51,9280.33
+P002,SKU002,Electronics,Monitor,5103.35,3862.76
+P003,SKU003,Electronics,Headphones,1674.13,1006.35
+P004,SKU004,Electronics,Keyboard,825.3,619.33
+P005,SKU005,Home,Desk,3123.65,2355.15
+P006,SKU006,Home,Office Chair,3653.72,2501.63
+P007,SKU007,Home,Lamp,692.39,399.57
+P008,SKU008,Home,Storage,952.71,663.0
+P009,SKU009,Fashion,Sneakers,1843.37,1277.0
+P010,SKU010,Fashion,Jacket,1487.5,884.68
+P011,SKU011,Fashion,T-Shirt,487.27,344.29
+P012,SKU012,Fashion,Backpack,1008.95,650.79
+P013,SKU013,Beauty,Skincare,889.0,519.78
+P014,SKU014,Beauty,Haircare,746.01,469.1
+P015,SKU015,Beauty,Fragrance,1375.39,1038.91
+P016,SKU016,Beauty,Makeup,802.2,467.64
