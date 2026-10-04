@@ -1,0 +1,29 @@
+name: CI - Validate Project
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate-project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check project structure
+        run: |
+          test -d sql
+          test -d data
+          test -d docs
+          test -d powerbi
+          test -f README.md
+
+      - name: Check SQL files exist
+        run: |
+          find sql -name "*.sql" -type f
