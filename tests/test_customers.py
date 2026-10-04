@@ -19,19 +19,6 @@ def test_customer_ids_are_not_blank():
         assert row["customer_id"].strip() != "", (
             "Found a customer with a blank customer_id"
         )
-              - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install pytest
-        run: |
-          python -m pip install --upgrade pip
-          pip install pytest
-
-      - name: Run customer data quality tests
-        run: |
-          pytest tests/test_customers.py -v
 
 
 def test_customer_ids_are_unique():
