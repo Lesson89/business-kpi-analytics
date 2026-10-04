@@ -52,7 +52,9 @@ jobs:
             fi
           done
 
-          echo "SQL quality checks completed."      - name: Set up Python
+          echo "SQL quality checks completed."  
+          
+          - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
