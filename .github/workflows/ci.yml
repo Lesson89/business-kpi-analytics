@@ -54,6 +54,3 @@ jobs:
 
           echo "SQL quality checks completed."
 
-      - name: Check SQL files exist
-        run: |
-          find sql -name "*.sql" -type f
