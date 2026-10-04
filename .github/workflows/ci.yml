@@ -27,3 +27,33 @@ jobs:
       - name: Check SQL files exist
         run: |
           find sql -name "*.sql" -type f
+
+      - name: Check SQL files for common issues
+        run: |
+          echo "Checking SQL files..."
+
+          files=$(find sql -name "*.sql" -type f)
+
+          if [ -z "$files" ]; then
+            echo "ERROR: No SQL files found."
+            exit 1
+          fi
+
+          for file in $files; do
+            echo "Checking: $file"
+
+            if grep -qi "DROP DATABASE" "$file"; then
+              echo "ERROR: Dangerous DROP DATABASE statement found in $file"
+              exit 1
+            fi
+
+            if grep -qi "TRUNCATE TABLE" "$file"; then
+              echo "WARNING: TRUNCATE TABLE found in $file"
+            fi
+          done
+
+          echo "SQL quality checks completed."
+
+      - name: Check SQL files exist
+        run: |
+          find sql -name "*.sql" -type f
